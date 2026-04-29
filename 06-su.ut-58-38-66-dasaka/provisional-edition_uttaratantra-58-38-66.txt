@@ -2612,26 +2612,42 @@
                     <l xml:id="SS.6.64.18cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.18cd</label>
                         <caesura/>
-                         svāduśītañ jalaṃ medhyaṃ śucisphaṭikanirmmalaṃ | </l>
+                        svāduśītañ jalaṃ medhyaṃ śucisphaṭikanirmalam | <anchor
+                            n="SS.6.64.18cd-n1"/>
+                    </l>
+                    <ab corresp="#SS.6.64.18cd" type="apparatus">
+                        <list type="Testimonia">
+                            <item xml:lang="en" corresp="#SS.6.64.18cd-n1">In the vulgate, the
+                                verses from 
+                                <foreign>svāduśītajalaṃ</foreign> to 
+                                <foreign>samācared</foreign>, with the exception of two hemistiches
+                                (<foreign>śaratsu pavanañ caiva kamalotpalaśāliṣu</foreign> and <foreign>candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ</foreign>),
+                                have been included in round brackets with a footnote stating, ``This
+                                passage is not found in the hand-written manuscripts.'' Also,
+                                Ḍalhaṇa does not comment on these verses.
+                            </item>
+                        </list>
+                    </ab>
+                    
 
                     <l xml:id="SS.6.64.19">
                         <label xml:lang="en">cf. 1938 ed. 6.64.19</label>
                         <caesura/>
-                         śarac candrāṃsunirdhūtamagastyodayanirviṣaṃ |
+                         śaraccandrāṃśunirdhūtam agastyodayanirviṣam |
                         <caesura/>
-                         prasannatvāc ca salilaṃ sarvam eva tadā hitaṃ | </l>
+                         prasannatvāc ca salilaṃ sarvam eva tadā hitam | </l>
 
                     <l xml:id="SS.6.64.19a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.19a</label>
                         <caesura/>
-                         śaratsupavanañ caivakamālautpalaśāliṣu | </l>
+                         śaratsu pavanañ caiva kamalotpalaśāliṣu | </l>
 
                     <l xml:id="SS.6.64.20">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20</label>
                         <caesura/>
-                         candanaṃ vāsakarpūraṃ vāsaś cāmalinaṃ laghuḥ |
+                         candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ laghum |
                         <caesura/>
-                         bhajec ca śāradaṃ mālyaṃ sīḥ pānañ ca yuktitaḥ | </l>
+                         bhajec ca śāradaṃ mālyaṃ sīdhoḥ pānañ ca yuktitaḥ | </l>
 
                     <l xml:id="SS.6.64.20a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20a</label>
@@ -2641,7 +2657,7 @@
                     <l xml:id="SS.6.64.21">
                         <label xml:lang="en">cf. 1938 ed. 6.64.21</label>
                         <caesura/>
-                         pittapraśamanaṃ yac ca tac ca sarvaṃ samācarediti ||
+                         pittapraśamanaṃ yac ca tac ca sarvaṃ samācared iti ||
                         <caesura/>
                          hemantaḥ śītalo rūkṣo mandasūyo nilākulaḥ | </l>
 

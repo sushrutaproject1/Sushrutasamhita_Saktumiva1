@@ -2182,10 +2182,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         vimokṣaṇaiḥ || </l>
 
 
-                    <l xml:id="SS.6.64.18cd"> svāduśītañ jale<pb n="407v" facs="411"/>
+                    <l xml:id="SS.6.64.18cd"> svāduśītañ jala<pb n="407v" facs="411"/>
                         medhyaṃ śucisphaṭikanirmmalaṃ | </l>
 
-                    <l xml:id="SS.6.64.19"> śarac candrāṃśunirddhūtamagastyodayanirvviṣaṃ
+                    <l xml:id="SS.6.64.19"> śaraccandrāṃśunirddhūtam agastyodayanirvviṣaṃ
                         ||
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvvam eva tadā hitaṃ | </l>
@@ -2193,17 +2193,17 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.19a">
                         <gap reason="omitted" extent="13" unit="char"/> śāliṣu || </l>
 
-                    <l xml:id="SS.6.64.20"> candanaṃ<lb n="2"/> vāsakarpūraṃ vāsaś
+                    <l xml:id="SS.6.64.20"> candanaṃ<lb n="2"/> vā sakarpūraṃ vāsañ
                         cāmalinaṃ laghuḥ |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sī<cb/><del>dhvoḥ</del><add
                             place="top margin">dhoḥ</add> pānañ ca yuktitaḥ || </l>
 
-                    <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvarggaḥ sukhāni<gap
+                    <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvarggaḥ sukhāni <gap
                             reason="omitted" extent="1" unit="char"/>dhurāśiraḥ | </l>
 
                     <l xml:id="SS.6.64.21"> pittaprasamanaṃ yac ca tac ca sa<lb n="3"
-                        />rvvan samācarediti | <g ref="#newa-old-gap-filler"/>
+                        />rvvan samācared iti | <g ref="#newa-old-gap-filler"/>
                         <caesura/>
                          hemantaḥ śītalo rūkṣo mandasūryo<cb/> nilākulaḥ | </l>
 

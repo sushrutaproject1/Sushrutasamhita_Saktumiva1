@@ -1929,26 +1929,25 @@ iii) 19ef is placed after 18ab     -->
                         mokṣaṇaiḥ | </l>
 
                     <l xml:id="SS.6.64.18cd"> svāduśītañ jalaṃ medhyaṃ
-                        śu<cb/>cisphaṭikanirmmalaṃ | </l>
+                        śu<cb/>cisphaṭikanirmalaṃ | </l>
 
-                    <l xml:id="SS.6.64.19"> śarac candrāṃsunirdhūtamaga<unclear
+                    <l xml:id="SS.6.64.19"> śaraccandrāṃśunirdhūtam aga<unclear
                             reason="damaged">styo</unclear>dayanirviṣaṃ |
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvam eva tadā hitaṃ | </l>
 
-                    <l xml:id="SS.6.64.19a"> śaratsupavanañ caivakamālau<cb/>tpalaśāliṣu | </l>
+                    <l xml:id="SS.6.64.19a"> śaratsu pavanañ caiva kamālo<cb/>tpalaśāliṣu | </l>
 
-                    <l xml:id="SS.6.64.20"> candanaṃ vāsakarpūraṃ vāsaś cāmalinaṃ
-                            <unclear>la</unclear>ghuḥ |
+                    <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ
+                            laghuḥ |
                         <caesura/>
-                         bhajec ca śāradaṃ mālyaṃ sī<unclear extent="1" reason="illegible"
-                            unit="char"/>ḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
+                         bhajec ca śāradaṃ mālyaṃ sīdhvoḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
 
                     <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ
                         | </l>
 
                     <l xml:id="SS.6.64.21"> pittapraśamanaṃ yac ca tac ca sarvaṃ
-                            samācare<unclear reason="damaged">diti</unclear><cb/> || <g
+                            samācare<unclear reason="damaged">d iti</unclear><cb/> || <g
                             ref="#newa-old-gap-filler"/>
                         <caesura/>
                          hemanta<add place="below">ḥ</add> śītalo rūkṣo mandasūyo
