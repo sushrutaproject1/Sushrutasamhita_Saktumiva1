@@ -2668,9 +2668,9 @@
                     <l xml:id="SS.6.64.28">
                         <label xml:lang="en">cf. 1938 ed. 6.64.28</label>
                         <caesura/>
-                         annapānān tilān māṣāṃ śākāni ca dadhīni ca |
+                         annapānān tilān māṣāñ śākāni ca dadhīni ca |
                         <caesura/>
-                         tathekṣuvikṛtiñ chālīn sugandhāṃś ca navān api | </l>
+                         tathekṣuvikṛtīḥ śālīn sugandhāṃś ca navān api | </l>
 
                     <l xml:id="SS.6.64.29">
                         <label xml:lang="en">cf. 1938 ed. 6.64.29</label>
