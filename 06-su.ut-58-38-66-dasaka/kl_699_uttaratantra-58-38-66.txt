@@ -1958,7 +1958,7 @@ iii) 19ef is placed after 18ab     -->
                          tathekṣuvikṛt<del>i</del><add>ī</add>ñ chālīṃ sugandhāṃ<cb/>ś ca
                         navān api | </l>
 
-                    <l xml:id="SS.6.64.29"> prasahānūpā māṃsāni kravyādabilaśāyināṃ |
+                    <l xml:id="SS.6.64.29"> prasahānūpāmāṃsāni kravyādabilaśāyināṃ |
                         <caesura/>
                          audakānāṃ plavānāñ ca pādināñ copayo<lb n="5"/>jayet | </l>
 

@@ -2219,7 +2219,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                          tathekṣuvikṛtāñ chālīn sugandhāṃś ca<lb n="4"/>
                         <gap reason="omitted" extent="1" unit="char"/>vān api | </l>
 
-                    <l xml:id="SS.6.64.29"> prasahānūpa<pc> </pc>māṃsāni kravyādabilaśāyināṃ || <cb/>
+                    <l xml:id="SS.6.64.29"> prasahānūpamāṃsāni kravyādabilaśāyināṃ || <cb/>
                         <caesura/>
                          audakānāṃ plavānāñ ca pādināṃ copayojayet | </l>
 

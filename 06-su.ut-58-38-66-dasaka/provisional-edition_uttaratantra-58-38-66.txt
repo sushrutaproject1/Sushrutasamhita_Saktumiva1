@@ -2668,21 +2668,21 @@
                     <l xml:id="SS.6.64.28">
                         <label xml:lang="en">cf. 1938 ed. 6.64.28</label>
                         <caesura/>
-                         annapānāṃ tilān māṣāṃ śākāni ca dadhīni ca |
+                         annapānān tilān māṣāṃ śākāni ca dadhīni ca |
                         <caesura/>
-                         tathekṣuvikṛtīñ chālīṃ sugandhāṃś ca navān api | </l>
+                         tathekṣuvikṛtiñ chālīn sugandhāṃś ca navān api | </l>
 
                     <l xml:id="SS.6.64.29">
                         <label xml:lang="en">cf. 1938 ed. 6.64.29</label>
                         <caesura/>
-                         prasahānūpā māṃsāni kravyādabilaśāyinām |
+                         prasahānūpamāṃsāni kravyādabilaśāyinām |
                         <caesura/>
                          audakānāṃ plavānāñ ca pādināñ copayojayet | </l>
 
                     <l xml:id="SS.6.64.30">
                         <label xml:lang="en">cf. 1938 ed. 6.64.30</label>
                         <caesura/>
-                         madyāni ca prasannāni yac ca kiñcid balapradaṃ |
+                         madyāni ca prasannāni yac ca kiñcid balapradam |
                         <caesura/>
                          kāmatas tan niṣeveta puṣṭim icchan himāgame | </l>
 
