@@ -2652,14 +2652,14 @@
                     <l xml:id="SS.6.64.20a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20a</label>
                         <caesura/>
-                         candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ | </l>
+                         candrapādāḥ sahṛdvargaḥ sukhāni madhurā giraḥ | </l>
 
                     <l xml:id="SS.6.64.21">
                         <label xml:lang="en">cf. 1938 ed. 6.64.21</label>
                         <caesura/>
                          pittapraśamanaṃ yac ca tac ca sarvaṃ samācared iti ||
                         <caesura/>
-                         hemantaḥ śītalo rūkṣo mandasūyo nilākulaḥ | </l>
+                         hemantaḥ śītalo rūkṣo mandasūryo 'nilākulaḥ | </l>
 
                     <l xml:id="SS.6.64.22"/>
                     <l xml:id="SS.6.64.23"/>
@@ -2670,14 +2670,14 @@
                         <caesura/>
                          annapānāṃ tilān māṣāṃ śākāni ca dadhīni ca |
                         <caesura/>
-                         tathekṣuvikṛtīñ cchālīṃ sugandhāṃś ca navānapi | </l>
+                         tathekṣuvikṛtīñ chālīṃ sugandhāṃś ca navān api | </l>
 
                     <l xml:id="SS.6.64.29">
                         <label xml:lang="en">cf. 1938 ed. 6.64.29</label>
                         <caesura/>
-                         prasahānūpāmāṃsāni kravyādabilaśāyināṃ |
+                         prasahānūpā māṃsāni kravyādabilaśāyinām |
                         <caesura/>
-                         audakānāṃ plavānāñ ca pādināñ caupayojayet | </l>
+                         audakānāṃ plavānāñ ca pādināñ copayojayet | </l>
 
                     <l xml:id="SS.6.64.30">
                         <label xml:lang="en">cf. 1938 ed. 6.64.30</label>
