@@ -162,9 +162,9 @@
 
         <div n="27" type="adhyāya">
 
-          <milestone ana="line 2" facs="174v IMG_0045.JPG" n="174v" unit="folio"/>
+          <pb facs="190" ana="IMG_0045.JPG" n="174v, line 2"/>
 
-          <l xml:id="SS.6.27.1"> athāto navagrahavijñānīyam adhyāyaṃ <abbr
+          <l xml:id="SS.6.27.1"><cb n="2"/> athāto navagrahavijñānīyam adhyāyaṃ <abbr
               type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
 
 

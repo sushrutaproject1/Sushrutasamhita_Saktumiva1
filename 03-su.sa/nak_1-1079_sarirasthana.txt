@@ -628,9 +628,10 @@
         </body>
     </text>
     <facsimile>
-        <graphic
-            url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_1_1079_manifest.json"
-        />
+        <graphic url="https://iiif.archive.org/iiif/1-1079/manifest.json"/>
     </facsimile>
+
+<!--            url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_1_1079_manifest.json"
+-->
 
 </TEI>
