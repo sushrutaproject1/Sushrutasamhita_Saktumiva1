@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>MS Kathmandu KL 699: Uttaratantra, 45-66</title>
+                <title>MS Kathmandu KL 699: Uttaratantra, 45-66 "Daśaka"</title>
             </titleStmt>
             <publicationStmt>
                 <p>Suśruta project, University of Alberta</p>
@@ -16,24 +16,25 @@
                             <country>Nepal</country>
                         </placeName>
                         <institution>Kaiser Library</institution>
-                        <repository>https://www.klib.gov.np/</repository>
-                        <collection>[collection]</collection>
-                        <idno>699</idno>
-                        <idno type="NCC">[NCC identifier]</idno>
+                        <repository><ref target="https://www.klib.gov.np/"
+                                >https://www.klib.gov.np/</ref></repository>
+                        <idno>KL 699</idno>
                         <idno type="siglum">K</idno>
                     </msIdentifier>
+
                     <msContents>
-                        <summary>Vulgate ch. 42 = Nepalese MS 39.</summary>
+                        <summary>The Nepalese MSS do not follow the sequence of the
+                            vulgate here. Vulgate 6.38 is between Nepalese 6.58 and
+                            6.59.</summary>
                         <msItem defective="true" n="1">
                             <!-- @defective: 'false' for complete, 'true' for incomplete -->
                             <author role="author" xml:lang="sa">Suśruta</author>
                             <title xml:lang="sa">Suśrutasaṃhitā</title>
-                            <title type="commentary" xml:lang="sa">[title of
-                                commentary]</title>
+
                             <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-                            <textLang mainLang="sa-Newa">[Sanskrit in Nepalese
-                                script.]</textLang>
-                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                            <textLang mainLang="sa-Newa">Sanskrit in Nepalese
+                                script.</textLang>
+
                             <noteGrp>
                                 <note resp="Harshal Bhatt">
                                     <p>6.38.3 to 6.38.8 are in different metre (perhaps
@@ -107,10 +108,13 @@
                             <origDate calendar="Nepal" when="0301">M Saṃvat 301 (878
                                 CE).</origDate>
                             <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-                            <origPlace xml:lang="en">[place of production]</origPlace>
+                            <origPlace xml:lang="en">Kathmandu</origPlace>
                         </origin>
                         <provenance>[record of ownership]</provenance>
-                        <acquisition>[how it was acquired]</acquisition>
+                        <acquisition>Acquired by 1907 by the then Prime Minister of Nepal,
+                            Chandra Shumsher Jang Bahadur Rana and placed in the Kaiser
+                            Library that he created for his son, Kaiser (Keshar) Shumsher
+                            Rana.</acquisition>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -256,19 +260,13 @@
         <body>
             <div n="6" type="sthāna">
 
-                <!--        The Nepalese MSS do not follow the sequence of the vulgate here.  The Nep edition 
-        should follow the Nep MSS, i.e., vulgate 6.38 is followed by 6.60 -->
+           <div n="58" corresp="chapter 56 in K and H" type="adhyāya">
 
 
 
-                <div n="58" corresp="chapter 56 in K and H" type="adhyāya">
-
-                    <milestone ana="line 4b" facs="200r IMG_0058.JPG" n="200r"
-                        unit="folio"/>
-
-
-                    <l xml:id="SS.6.58.1"> athāto mūtradoṣapratiṣedham
-                                <expan>vyā<ex>vyākhyāsyāmaḥ</ex></expan> || </l>
+                    <l xml:id="SS.6.58.1">
+                        <pb n="200r, line 4" ana="IMG_0058.JPG" facs="249"/> athāto
+                        mūtradoṣapratiṣedham <abbr>vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
 
 
 
@@ -337,8 +335,7 @@
                     <l xml:id="SS.6.58.13"> mūtra<add place="below">sya</add> vege vihate
                         tad udāvarttasaṃjñitaṃ ||
                         <caesura/>
-                         apānaḥ kupito vāyur u<milestone facs="200v IMG_0059.JPG" n="200v"
-                            unit="digital-image"/><pb facs="251" n="200v"/><lb n="1"
+                         apānaḥ kupito vāyur u<pb facs="251" n="200v" ana="IMG_0059.JPG"/><lb n="1"
                             />dara<unclear cert="unknown" reason="damage">ṃ</unclear>
                         pūrayed bhṛṣaṃ | </l>
 
@@ -498,8 +495,7 @@
                         | <g ref="#newa-placeholder-mark"/>
                         <g ref="#newa-placeholder-mark"/>
                         <caesura/>
-                        <milestone facs="201r IMG_0060.JPG" n="201r" unit="digital-image"
-                            /><pb facs="252" n="201r"/><lb n="1"/>śataparvakamūlañ ca
+                        <pb facs="252" n="201r" ana="IMG_0060.JPG"/><lb n="1"/>śataparvakamūlañ ca
                         devadāru sacitraṃkaṃ | </l>
 
                     <l xml:id="SS.6.58.45"> akṣabījañ ca surayā kalkīkṛtya piben naraḥ |
@@ -514,9 +510,9 @@
 
                     <l xml:id="SS.6.58.trailer"> kāyaci || 21 || ❈ || </l>
 
-                    <milestone ana="line 1b" facs="201r IMG_0060.JPG" n="201r"
+                   <!-- <milestone ana="line 1b" facs="201r IMG_0060.JPG" n="201r"
                         unit="folio"/>
-
+-->
                 </div>
                 <!-- end of chapter 58 (56 in Nepalese manuscripts) of Uttaratantra-->
 
@@ -524,8 +520,7 @@
 
                 <div n="59" corresp="chapter 57 in K and H" type="adhyāya">
 
-                    <milestone ana="line 1c" facs="201r IMG_0060.JPG" n="201r"
-                        unit="folio"/>
+                    <pb n="201r, line 1c" ana="201r IMG_0060.JPG" facs="252"/>
 
 
                     <l xml:id="SS.6.59.1"> athāto mūtrāghātapratiṣedhaṃ <abbr>vyā</abbr>
@@ -651,8 +646,7 @@
                         kuḍavasammitaṃ ||<g ref="#newa-placeholder-mark"/></l>
 
                     <l xml:id="SS.6.59.13xiii">
-                        <milestone facs="201v IMG_0061.JPG" n="201v" unit="digital-image"
-                            /><pb facs="253" n="201v"/><lb n="1"/>mūtradoṣaharam pītvā
+                        <pb facs="253" n="201v" ana="IMG_0061.JPG"/><lb n="1"/>mūtradoṣaharam pītvā
                         naraḥ sampadyate sukhī ||</l>
 
                     <l xml:id="SS.6.59.13xiv"> prapīḍyāmalakānām vā rasaṃ kuḍavasammitaṃ |
@@ -757,15 +751,16 @@
                         tathānyau tu muddhiṣṭau kriyāvidhīti || </l>
 
                     <l xml:id="SS.6.59.trailer"> kāyaci || 22 || 0 ||</l>
+          <!--
                     <milestone ana="line 6b" facs="201v IMG_0061.JPG" n="201v"
-                        unit="folio"/>
+                        unit="folio"/>-->
 
                 </div>
                 <!-- end of chapter 59 (57 in Nepalese manuscripts) of Uttaratantra-->
 
                 <div n="38" corresp="58 in KL 699" type="adhyāya">
 
-                    <milestone ana="line 6" n="201v" unit="folio"/>
+                    <pb  n="201v, line 6b" facs="253"/>
 
                     <!--  resp="Harshal Bhatt"
             <p>6.38.3 to 6.38.8 are in different metre (perhaps Indravajrā) with the same
@@ -942,7 +937,7 @@
         should follow the Nep MSS, i.e., vulgate 6.38 is followed by 6.60 -->
                 <div corresp="6.60 in KL 699" n="60" type="adhyāya">
 
-                    <milestone ana="line 1" n="202v" unit="folio"/>
+<!--                    <milestone ana="line 1" n="202v" unit="folio"/>-->
 
                     <!--      A) Missing Verses:
 6.60. 32ab,  35cd,  36ab,  37cd,  46ab,  56cd
@@ -951,7 +946,7 @@
 (B) Special Notes:
 6.60.41cd is placed after 6.60.41b    -->
 
-                    <l xml:id="SS.6.60.1"> athāto mānuṣapratiṣedhaṃ vyāsyāmaḥ || </l>
+                    <l xml:id="SS.6.60.1"> athāto mānuṣapratiṣedhaṃ vyā<corr><add resp="transcriber">khyā</add></corr>syāmaḥ || </l>
 
                     <l xml:id="SS.6.60.2"> yathovāca bhagavān dhanvanta<cb/>riḥ śruṇu
                         vatsa suśruta || </l>
@@ -1282,7 +1277,7 @@
 
 
                 <div corresp="6.61 in KL 699" n="61" type="adhyāya">
-                    <milestone ana="line 3" n="203v" unit="folio"/>
+                    <pb facs="257" n="203v, line 3c"/>
                     <!--     (A) Missing Verses:
 6.61.2,  3ab,  4,  5,  6,  8cd,  9ab,  10ab,
 11,  13ab,  14cd,   
@@ -1467,11 +1462,11 @@ In the previous file of NAK -533 Vulgate 6.61, I forgot to mention xml id: SS.6.
 i) 18cd is placed after 17a
 ii) 18ab is placed after 18c
 iii) 19ef is placed after 18ab     -->
-                    <milestone ana="line 3" n="204r" unit="folio"/>
+                    <pb facs="258" n="204r, line 3b"/>
 
                     <l xml:id="SS.6.62.1"> athātonmādaprati<cb/>ṣedhaṃ <abbr
-                            type="supention">vyā</abbr>
-                        <expan><ex>kyāsyāmaḥ</ex></expan> || </l>
+                            type="suspension">vyā</abbr>
+                        <ex>khyāsyāmaḥ</ex> || </l>
 
 
 
@@ -1631,10 +1626,10 @@ iii) 19ef is placed after 18ab     -->
 
                 <div n="63" type="adhyāya" corresp="6.62 in KL 699">
 
-                    <milestone ana="line 4" n="204v" unit="folio"/>
+<!--                    <milestone ana="line 4" n="204v" unit="folio"/>-->
                     <!-- 204v :4 -->
-
-                    <l xml:id="SS.6.63.1"> athāto rasabhedamadhyāyaṃ <abbr
+                    <pb facs="259" n="204v, line 4c"/>
+                    <l xml:id="SS.6.63.1"> athāto rasabhedam adhyāyaṃ <abbr
                             type="supention">vyā</abbr>
                         <expan><ex>khyāsyāmaḥ</ex></expan> || </l>
 
@@ -1753,7 +1748,7 @@ iii) 19ef is placed after 18ab     -->
 
 
                 <div n="64" type="adhyāya" corresp="6.63 in KL 699">
-                    <milestone ana="line 2" n="205v" unit="folio"/>
+                  
                     <!-- A)  Missing Verses:
 6.64.2,   3ab,   11,  13cd,  14,  15,  16,  17cd,  18ab,  
 22,  23,  24,  26,  27,  31ab,  37ab,  38,  40ab,
@@ -1798,9 +1793,10 @@ iii) 19ef is placed after 18ab     -->
 24)  81 is after 82ab
 25) 82ab is after 80
 26) 82cd is after 81a -->
+                    
+                    <pb facs="261" n="205v, line 2c"/>
                     <l xml:id="SS.6.64.1"> athātaḥ svastharakṣaṇīyaṃ <abbr
-                            type="suspension">vyā</abbr>
-                        <expan><ex>khyāsyāmaḥ</ex></expan> || </l>
+                            type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
 
 
                     <l xml:id="SS.6.64.1.add"> samadoṣaḥ samā<unclear reason="damage"
@@ -1905,22 +1901,22 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.16h"> sasarpir jāṅgalayutaṃ śarady adyāt
                         prakāṃkṣataḥ | </l>
 
-                    <l xml:id="SS.6.64.16i"> hariṇāṃ pṛṣatāṃ lāvāñ cchagān eṇān
-                        kapiñjalāṃ || </l>
+                    <l xml:id="SS.6.64.16i"> hariṇāṃ pṛṣatāṃ lāvāñ cchagān eṇān kapiñjalāṃ
+                        || </l>
 
-                    <l xml:id="SS.6.64.16j"> mudgāñ 
-                            cchālī<cb/>n yavāñ jīrṇṇāṃ seven
+                    <l xml:id="SS.6.64.16j"> mudgāñ cchālī<cb/>n yavāñ jīrṇṇāṃ seven
                         nātivyavāyavān | </l>
 
-                    <l xml:id="SS.6.64.16k"> vidāhi<pc> </pc>kṣāratīkṣṇoṣṇa<pc> </pc>divāsvapnagurūṇy atha | </l>
+                    <l xml:id="SS.6.64.16k"> vidāhi<pc> </pc>kṣāratīkṣṇoṣṇa<pc
+                        > </pc>divāsvapnagurūṇy atha | </l>
 
-                    <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsam avaśyāyañ ca varjayet
-                        | </l>
+                    <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsam avaśyāyañ ca
+                        varjayet | </l>
 
-                    <l xml:id="SS.6.64.16m"> sevyaḥ<cb/> śaradi yannena
-                             vidhir eṣa vijānatā | 
+                    <l xml:id="SS.6.64.16m"> sevyaḥ<cb/> śaradi yannena vidhir eṣa
+                        vijānatā |
                         <caesura/>
-                        drākṣekṣukṣīrasevī ca bhavet tatra narādhipa | </l>
+                         drākṣekṣukṣīrasevī ca bhavet tatra narādhipa | </l>
 
                     <l xml:id="SS.6.64.17ab"> varṣāsu sañcitam pittaṃ nirha<lb n="3"/>rec
                         ca virecanaiḥ | </l>
@@ -1936,10 +1932,11 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvam eva tadā hitaṃ | </l>
 
-                    <l xml:id="SS.6.64.19a"> śaratsu pavanañ caiva kamālo<cb/>tpalaśāliṣu | </l>
+                    <l xml:id="SS.6.64.19a"> śaratsu pavanañ caiva kamālo<cb/>tpalaśāliṣu
+                        | </l>
 
-                    <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ
-                            laghuḥ |
+                    <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ laghuḥ
+                        |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sīdhvoḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
 
@@ -2431,10 +2428,10 @@ iii) 19ef is placed after 18ab     -->
 
                 <div n="65" type="adhyāya" corresp="6.65 in KL 699">
 
-                    <milestone ana="line 3" n="208r" unit="folio"/>
+                    <pb facs="266" ana="line 3" n="208r, line 3c"/>
 
                     <l xml:id="SS.6.65.1"> athātas tantrayuktyuddeśaṃ nāmādhyāyaṃ <abbr
-                            type="suspention">vyā</abbr><expan><ex>khyāsyāmaḥ</ex></expan>
+                            type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex>
                         || </l>
 
 
@@ -2676,7 +2673,8 @@ iii) 19ef is placed after 18ab     -->
  (C) Special Notes:
 1) In xml id 6.66.16cd , the 'd' paada that contains the text ' bhavantaam parikirttitam' is at 6.66.16a (the second paada). I did not understand how to encode it. 
 2) In the last folio 209 v, I could not ascertain its ending text. -->
-                    <milestone ana="line 6" n="209r" unit="folio"/>
+<!--                    <milestone ana="line 6" n="209r" unit="folio"/>-->
+
 
                     <l xml:id="SS.6.66.1"> athāto doṣabhedavikalpam adhyāyaṃ <abbr
                             type="supention">vyā</abbr>
