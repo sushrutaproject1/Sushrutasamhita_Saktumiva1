@@ -2200,7 +2200,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             place="top margin">dhoḥ</add> pānañ ca yuktitaḥ || </l>
 
                     <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvarggaḥ sukhāni <gap
-                            reason="omitted" extent="1" unit="char"/>dhurāśiraḥ | </l>
+                            reason="omitted" extent="1" unit="char"/>dhurā śiraḥ | </l>
 
                     <l xml:id="SS.6.64.21"> pittaprasamanaṃ yac ca tac ca sa<lb n="3"
                         />rvvan samācared iti | <g ref="#newa-old-gap-filler"/>
@@ -2216,8 +2216,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.28"> annapānān tilān māṣān śākāni ca<gap
                             reason="omitted" extent="4" unit="char"/> |
                         <caesura/>
-                         tathekṣuvikṛtāñchālīn sugandhāṃś ca<lb n="4"/>
-                        <gap reason="omitted" extent="1" unit="char"/>vānapi | </l>
+                         tathekṣuvikṛtāñ chālīn sugandhāṃś ca<lb n="4"/>
+                        <gap reason="omitted" extent="1" unit="char"/>vān api | </l>
 
                     <l xml:id="SS.6.64.29"> prasahānūpamāṃsāni kravyādabilaśāyināṃ || <cb/>
                         <caesura/>

@@ -1635,8 +1635,12 @@
 
                     <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇe gṛhe
                         |</l>
+<<<<<<< HEAD
                     <l xml:id="SS.6.64.12cd"> yā yā nnāgavadhūbhiś ca praśastā
                         gurubhūṣitaḥ || </l>
+=======
+                    <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastāgurubhūṣitaḥ || </l>
+>>>>>>> e42c234e8f224ad933294a14c69a807296732df2
 
                     <l xml:id="SS.6.64.13ab"> divāsvapnam ajīrṇaṃ ca varjayet tatra
                         yatnataḥ | </l>
@@ -1672,7 +1676,7 @@
                     <l xml:id="SS.6.64.18cd"> (svāduśītajalaṃ medhyaṃ śucisphaṭikanirmalam
                         || </l>
 
-                    <l xml:id="SS.6.64.19"> śarac candrāṃśunirdhautam agastyodayanirviṣam
+                    <l xml:id="SS.6.64.19"> śaraccandrāṃśunirdhautam agastyodayanirviṣam
                         |
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvam eva tadā hitam || </l>
@@ -1684,11 +1688,17 @@
                     <l xml:id="SS.6.64.20a"/>
 
                     <l xml:id="SS.6.64.21"> pittapraśamanaṃ yac ca tac ca sarvaṃ samācaret
+<<<<<<< HEAD
                         |
                         ||)
                         <caesura/>
                         <pb facs="894" n="810a"/>(hemantaḥ śītalo rūkṣo mandasūryo
                         'nilākulaḥ || </l>
+=======
+                        |)
+                        <caesura/>
+                          (hemantaḥ śītalo rūkṣo mandasūryo 'nilākulaḥ || </l>
+>>>>>>> e42c234e8f224ad933294a14c69a807296732df2
 
                     <l xml:id="SS.6.64.22"> tatas tu śītam āsādya vāyus tatra prakupyati |
                         <caesura/>
@@ -1717,9 +1727,9 @@
                          (madhuraṃ tiktakaṭukamamlaṃ lavaṇam eva ca || </l>
 
 
-                    <l xml:id="SS.6.64.28"> annapānaṃ tilān māṣāñchākāni ca dadhīni ca |
+                    <l xml:id="SS.6.64.28"> annapānaṃ tilān māṣāñ chākāni ca dadhīni ca |
                         <caesura/>
-                         tathekṣuvikṛtīḥ śālīn sugandhāṃś ca navānapi || </l>
+                         tathekṣuvikṛtīḥ śālīn sugandhāṃś ca navān api || </l>
 
                     <l xml:id="SS.6.64.29"> prasahānūpamāṃsāni kravyādabilaśāyinām |
                         <caesura/>

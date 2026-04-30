@@ -1943,28 +1943,24 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sīdhvoḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
 
-                    <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ
+                    <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvargaḥ sukhāni madhurā giraḥ
                         | </l>
 
                     <l xml:id="SS.6.64.21"> pittapraśamanaṃ yac ca tac ca sarvaṃ
                             samācare<unclear reason="damaged">d iti</unclear><cb/> || <g
                             ref="#newa-old-gap-filler"/>
                         <caesura/>
-                         hemanta<add place="below">ḥ</add> śītalo rūkṣo mandasūyo
+                         hemanta<add place="below">ḥ</add> śītalo rūkṣo mandasūryo
                             ni<unclear reason="damaged">lā</unclear>kulaḥ | </l>
-
-
-
-
 
                     <l xml:id="SS.6.64.28"> annapānāṃ tilān māṣāṃ śākāni ca dadhīni ca |
                         <caesura/>
-                         tathekṣuvikṛt<del>i</del><add>ī</add>ñc chālīṃ sugandhāṃ<cb/>ś ca
-                        navānapi | </l>
+                         tathekṣuvikṛt<del>i</del><add>ī</add>ñ chālīṃ sugandhāṃ<cb/>ś ca
+                        navān api | </l>
 
                     <l xml:id="SS.6.64.29"> prasahānūpāmāṃsāni kravyādabilaśāyināṃ |
                         <caesura/>
-                         audakānāṃ plavānāñ ca pādināñ caupayo<lb n="5"/>jayet | </l>
+                         audakānāṃ plavānāñ ca pādināñ copayo<lb n="5"/>jayet | </l>
 
                     <l xml:id="SS.6.64.30"> madyāni ca prasannāni yac ca kiñcid balapradaṃ
                         |
