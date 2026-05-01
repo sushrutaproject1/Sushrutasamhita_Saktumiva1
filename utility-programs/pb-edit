@@ -5,12 +5,13 @@ from lxml import etree
 import os
 import platform
 import re
+import sys
 
 class TEIEditor:
     def __init__(self, root):
         self.root = root
         self.root.title("TEI <pb> Attribute Editor")
-        self.root.geometry("900x700")
+        self.root.geometry("1000x800")
         
         self.tree = None
         self.file_path = None
@@ -18,16 +19,38 @@ class TEIEditor:
 
         self.setup_ui()
 
-    def setup_ui(self):
-        btn_frame = tk.Frame(self.root)
-        btn_frame.pack(fill=tk.X, padx=10, pady=10)
+        # Command line argument handling
+        if len(sys.argv) > 1:
+            potential_path = sys.argv[1]
+            if os.path.exists(potential_path):
+                # Ensure we have the full absolute path
+                self.file_path = os.path.abspath(potential_path)
+                self.load_xml_content()
+            else:
+                print(f"Warning: File not found {potential_path}")
 
-        tk.Button(btn_frame, text="Open TEI/XML File", command=self.open_file).pack(side=tk.LEFT, padx=5)
-        self.reload_btn = tk.Button(btn_frame, text="Reload/Refresh", command=self.reload_file, state=tk.DISABLED)
+    def setup_ui(self):
+        # Top control panel
+        btn_frame = tk.Frame(self.root, pady=10)
+        btn_frame.pack(fill=tk.X)
+
+        tk.Button(btn_frame, text="Open File", command=self.open_file).pack(side=tk.LEFT, padx=5)
+        
+        self.reload_btn = tk.Button(btn_frame, text="Reload", command=self.reload_file, state=tk.DISABLED)
         self.reload_btn.pack(side=tk.LEFT, padx=5)
         
-        tk.Button(btn_frame, text="Save Edits", command=self.save_file, bg="#4CAF50", fg="white").pack(side=tk.LEFT, padx=5)
+        # Standard Save
+        tk.Button(btn_frame, text="Save New (-pb-edits)", 
+                  command=lambda: self.save_file(overwrite=False), 
+                  bg="#4CAF50", fg="white").pack(side=tk.LEFT, padx=5)
+        
+        # Overwrite Save - explicitly defined and packed
+        self.overwrite_btn = tk.Button(btn_frame, text="Save (Overwrite Original)", 
+                                      command=lambda: self.save_file(overwrite=True), 
+                                      bg="#f44336", fg="white", state=tk.DISABLED)
+        self.overwrite_btn.pack(side=tk.LEFT, padx=5)
 
+        # Scrolling setup
         self.canvas = tk.Canvas(self.root)
         self.scrollbar = ttk.Scrollbar(self.root, orient="vertical", command=self.canvas.yview)
         self.scrollable_frame = tk.Frame(self.canvas)
@@ -59,12 +82,12 @@ class TEIEditor:
     def open_file(self):
         path = filedialog.askopenfilename(filetypes=[("XML files", "*.xml"), ("All files", "*.*")])
         if path:
-            self.file_path = path
+            self.file_path = os.path.abspath(path)
             self.load_xml_content()
 
     def reload_file(self):
         if not self.file_path: return
-        if messagebox.askyesno("Confirm Reload", "Discard edits and reload?"):
+        if messagebox.askyesno("Confirm", "Discard edits and reload from disk?"):
             self.load_xml_content()
 
     def load_xml_content(self):
@@ -72,9 +95,11 @@ class TEIEditor:
             parser = etree.XMLParser(remove_blank_text=False)
             self.tree = etree.parse(self.file_path, parser)
             self.render_elements()
+            # Enable buttons once file is loaded
             self.reload_btn.config(state=tk.NORMAL)
+            self.overwrite_btn.config(state=tk.NORMAL)
         except Exception as e:
-            messagebox.showerror("Error", f"Failed to parse XML: {e}")
+            messagebox.showerror("Error", f"Could not load XML: {e}")
 
     def render_elements(self):
         for widget in self.scrollable_frame.winfo_children(): widget.destroy()
@@ -91,49 +116,46 @@ class TEIEditor:
             frame = tk.LabelFrame(self.scrollable_frame, text=f"Page Break {idx + 1}", padx=10, pady=5)
             frame.pack(fill=tk.X, expand=True, pady=5)
 
-            prev_text = (pb.xpath("preceding-sibling::text()[1]") or [""])[-1][-15:]
-            next_text = (pb.xpath("following-sibling::text()[1]") or [""])[0][:15]
-            tk.Label(frame, text=f"...{prev_text} [ <pb> ] {next_text}...", font=("Courier", 10), fg="#666").pack(anchor="w")
+            # Context
+            prev_text = (pb.xpath("preceding-sibling::text()[1]") or [""])[-1][-20:]
+            next_text = (pb.xpath("following-sibling::text()[1]") or [""])[0][:20]
+            tk.Label(frame, text=f"...{prev_text} [ <pb> ] {next_text}...", font=("Courier", 10), fg="#555").pack(anchor="w")
 
             attr_frame = tk.Frame(frame)
-            attr_frame.pack(fill=tk.X)
+            attr_frame.pack(fill=tk.X, pady=5)
 
+            # Sort and display attributes
             sorted_attrs = sorted(pb.attrib.keys(), key=lambda k: priority.get(k, 99))
             element_entries = {}
             
             for attr_name in sorted_attrs:
                 row = tk.Frame(attr_frame)
                 row.pack(fill=tk.X)
-                tk.Label(row, text=f"{attr_name}:", width=10, anchor="e").pack(side=tk.LEFT)
+                tk.Label(row, text=f"{attr_name}:", width=8, anchor="e").pack(side=tk.LEFT)
                 ent = tk.Entry(row)
                 ent.insert(0, pb.attrib[attr_name])
                 ent.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
                 element_entries[attr_name] = ent
 
+            # Auto-increment buttons
             if 'facs' in element_entries:
-                log_btn_frame = tk.Frame(frame)
-                log_btn_frame.pack(anchor="e", pady=5)
+                ctrl_frame = tk.Frame(frame)
+                ctrl_frame.pack(anchor="e")
                 
-                # Using a default argument in the lambda i=idx to capture the current loop index correctly
-                tk.Button(log_btn_frame, text="Single (+1, +2...)", 
+                tk.Button(ctrl_frame, text="Single (+1)", 
                           command=lambda i=idx: self.renumber_facs(i, mode="single"), 
                           bg="#e8f5e9", font=("Arial", 8)).pack(side=tk.LEFT, padx=2)
 
-                tk.Button(log_btn_frame, text="Double (+1, +1, +2...)", 
+                tk.Button(ctrl_frame, text="Double (+1, +1...)", 
                           command=lambda i=idx: self.renumber_facs(i, mode="double"), 
                           bg="#e3f2fd", font=("Arial", 8)).pack(side=tk.LEFT, padx=2)
             
             self.entries.append((pb, element_entries))
 
     def renumber_facs(self, start_index, mode="single"):
-        # Get value from the Entry box in the UI, not the XML directly
         current_val = self.entries[start_index][1]['facs'].get()
-        print(f"Renumbering starting from index {start_index} with value: {current_val}") # Debug line
-
         match = re.search(r'(\d+)', current_val)
-        if not match:
-            messagebox.showwarning("Warning", "No number found in the 'facs' field.")
-            return
+        if not match: return
         
         start_num = int(match.group(1))
         prefix = current_val[:match.start()]
@@ -143,35 +165,34 @@ class TEIEditor:
         current_increment = start_num
         step_counter = 0
         
-        # Apply logic to subsequent entries
         for i in range(start_index + 1, len(self.entries)):
-            if 'facs' not in self.entries[i][1]:
-                continue
-                
+            if 'facs' not in self.entries[i][1]: continue
             if mode == "single":
                 current_increment += 1
             else:
                 step_counter += 1
-                if step_counter % 2 == 1:
-                    current_increment += 1
+                if step_counter % 2 == 1: current_increment += 1
             
             new_val = f"{prefix}{str(current_increment).zfill(padding)}{suffix}"
-            
-            # Update the UI
             self.entries[i][1]['facs'].delete(0, tk.END)
             self.entries[i][1]['facs'].insert(0, new_val)
 
-    def save_file(self):
-        if self.tree is None: return
-        for pb, attr_dict in self.entries:
-            for attr_name, entry_widget in attr_dict.items():
-                pb.set(attr_name, entry_widget.get())
+    def save_file(self, overwrite=False):
+        if not self.tree: return
+        
+        target = self.file_path if overwrite else f"{os.path.splitext(self.file_path)[0]}-pb-edits.xml"
+        
+        if overwrite and not messagebox.askyesno("Overwrite", f"Overwrite {os.path.basename(target)}?"):
+            return
 
-        base, ext = os.path.splitext(self.file_path)
-        new_path = f"{base}-pb-edits{ext}"
+        # Update XML tree from UI fields
+        for pb, attr_dict in self.entries:
+            for name, entry in attr_dict.items():
+                pb.set(name, entry.get())
+
         try:
-            self.tree.write(new_path, encoding="utf-8", xml_declaration=True, pretty_print=False)
-            messagebox.showinfo("Success", f"Saved to {new_path}")
+            self.tree.write(target, encoding="utf-8", xml_declaration=True)
+            messagebox.showinfo("Success", f"Saved to {os.path.basename(target)}")
         except Exception as e:
             messagebox.showerror("Error", f"Save failed: {e}")
 
