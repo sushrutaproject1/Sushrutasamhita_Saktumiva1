@@ -2234,7 +2234,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.25a"> saśiraṣkan tathābhyaṅgam vyā<gap
                             reason="omitted" extent="2" unit="char"/>cācared bhṛśaṃ | </l>
 
-                    <l xml:id="SS.6.64.25b"> sukhodakāvagāham vā śauca<lb n="6"/>muṣṇāmbum
+                    <l xml:id="SS.6.64.25b"> sukhodakāvagāham vā śauca<lb n="6"/>m uṣṇāmbum
                         eva ca || </l>
 
                     <l xml:id="SS.6.64.25cd"> sāṃgārayāne mahati <gap reason="omitted"

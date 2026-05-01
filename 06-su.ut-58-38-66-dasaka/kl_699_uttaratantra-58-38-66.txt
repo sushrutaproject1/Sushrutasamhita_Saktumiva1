@@ -1935,13 +1935,8 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.19a"> śaratsu pavanañ caiva kamālo<cb/>tpalaśāliṣu
                         | </l>
 
-<<<<<<< HEAD
-                    <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsaś cāmalinaṃ
-                            laghuḥ |
-=======
                     <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ laghuḥ
-                        |
->>>>>>> bcc2d4c7f5f90e5a557999909d8222ba26a48b61
+                            |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sīdhvoḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
 

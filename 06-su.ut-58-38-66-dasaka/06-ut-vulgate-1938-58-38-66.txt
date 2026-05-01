@@ -1706,7 +1706,7 @@
                         'vagāhanam |</l>
                     <l xml:id="SS.6.64.25cd"> sāṅgārayāne mahati kauśeyāstaraṇāstṛte || </l>
 
-                    <l xml:id="SS.6.64.26"> śayīta śayane tais tairvṛto garbhagṛhodare |
+                    <l xml:id="SS.6.64.26"> śayīta śayane tais tair vṛto garbhagṛhodare |
                         <caesura/>
                          strīḥ śliṣṭvāgurudhūpāḍhyāḥ pīnorujaghanastanīḥ || </l>
 

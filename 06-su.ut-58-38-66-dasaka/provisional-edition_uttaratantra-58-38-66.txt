@@ -2699,7 +2699,7 @@
                     <l xml:id="SS.6.64.25b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25b</label>
                         <caesura/>
-                         sukhodakāvagāhaṃ vā saucamuṣṇāmbum eva ca | </l>
+                         sukhodakāvagāhaṃ vā saucam uṣṇāmbum eva ca | </l>
 
                     <l xml:id="SS.6.64.25cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25cd</label>
