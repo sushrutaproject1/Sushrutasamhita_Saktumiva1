@@ -96,8 +96,7 @@
             <change when="2026-02-14" who="Dominik Wujastyk">commented out the filiation
                 so that siglum A isn't bold. We aren't including the 1931 edition in our
                 collations, normally.</change>
-            <change who="Dominik Wujastyk" when="2026-05-01">Updating and checking the pb
-                pointers to the IIIF images.</change>
+            <change who="Dominik Wujastyk" when="2026-05-01">Completed update of pb elements pointing to IIIF images</change>
 
         </revisionDesc>
     </teiHeader>
