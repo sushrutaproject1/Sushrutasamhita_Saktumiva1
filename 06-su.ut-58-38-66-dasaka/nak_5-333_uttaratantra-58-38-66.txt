@@ -2228,13 +2228,13 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          kāma<lb n="5"/>tas tan niseveta puṣṭim icchan himāgame | </l>
 
-                    <l xml:id="SS.6.64.25ab"> taile koṣṇa sukhoṣṇe<cb/> vā
-                        praśastamavagāhanaṃ || </l>
+                    <l xml:id="SS.6.64.25ab"> tailakoṣṇasukhoṣṇe<cb/> vā
+                        praśastam avagāhanaṃ || </l>
 
                     <l xml:id="SS.6.64.25a"> saśiraṣkan tathābhyaṅgam vyā<gap
-                            reason="omitted" extent="2" unit="char"/>cācare bhṛśaṃ | </l>
+                            reason="omitted" extent="2" unit="char"/>cācared bhṛśaṃ | </l>
 
-                    <l xml:id="SS.6.64.25b"> sukhodakāvagāham vā śauca<lb n="6"/>muṣṇāmbum
+                    <l xml:id="SS.6.64.25b"> sukhodakāvagāham vā śauca<lb n="6"/>m uṣṇāmbum
                         eva ca || </l>
 
                     <l xml:id="SS.6.64.25cd"> sāṃgārayāne mahati <gap reason="omitted"
@@ -2250,26 +2250,26 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     </l>
                     <pb n="408r" facs="412"/>
 
-                    <l xml:id="SS.6.64.27b"> kuṃkum āguru dig<unclear>dhā</unclear>ṃge
+                    <l xml:id="SS.6.64.27b"> kuṃkumāgurudig<unclear>dhā</unclear>ṃge
                         nivāte gṛhagahvare | </l>
 
-                    <l xml:id="SS.6.64.27c"> śayītaśayane cāpi suvistīrṇṇe manorame || </l>
+                    <l xml:id="SS.6.64.27c"> śayīta śayane cāpi suvistīrṇṇe manorame || </l>
 
                     <l xml:id="SS.6.64.27d"> sevyamāno mṛdusparśai nirddayair upagūhanaiḥ
                         | <g ref="#newa-old-gap-filler"/>
                     </l>
 
-                    <l xml:id="SS.6.64.27e"> tatrāpanītahārāṃs tu priyānāryaḥ svalaṃkṛtāṃ
+                    <l xml:id="SS.6.64.27e"> tatrāpanītahārāṃs tu priyā nāryaḥ svalaṃkṛtāṃ
                         || </l>
 
-                    <l xml:id="SS.6.64.27f"> rāmayeyuryathā<cb/>kālaṃ balād api madotkaṭāḥ
+                    <l xml:id="SS.6.64.27f"> rāmayeyur yathā<cb/>kālaṃ balād api madotkaṭāḥ
                         | </l>
 
 
                     <l xml:id="SS.6.64.31cd"> eṣa eva vidhiḥ kāryaḥ śiśire samudāhṛtaḥ || </l>
 
-                    <l xml:id="SS.6.64.31a"> hemante śeṣaḥ śiśi<lb n="3"/>raḥ
-                        kecidicchanti vaidyakāḥ | </l>
+                    <l xml:id="SS.6.64.31a"> hemantaśeṣaḥ śiśi<lb n="3"/>raḥ
+                        ke cid icchanti vaidyakāḥ | </l>
 
                     <l xml:id="SS.6.64.31b"> medyamārutajaṃ śītaṃ raukṣyaṃ rādā<cb/>najaṃ
                         yataḥ || </l>

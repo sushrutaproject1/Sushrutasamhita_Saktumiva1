@@ -1936,7 +1936,7 @@ iii) 19ef is placed after 18ab     -->
                         | </l>
 
                     <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ laghuḥ
-                        |
+                            |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sīdhvoḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
 
@@ -1964,42 +1964,42 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          kāmatas tan niṣeveta puṣṭim icchan himāga<cb/>me | </l>
 
-                    <l xml:id="SS.6.64.25ab"> tailai koṣṇe sukheṣṇe vā
-                            praśastamavagā<unclear>ha</unclear>naṃ |</l>
+                    <l xml:id="SS.6.64.25ab"> taile koṣṇe sukheṣṇe vā
+                            praśastam avagā<unclear reason="damaged">ha</unclear>naṃ |</l>
 
                     <l xml:id="SS.6.64.25a"> saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared
                         bhṛśaṃ | </l>
 
-                    <l xml:id="SS.6.64.25b"> sukhodakāvagāhaṃ vā saucamuṣṇāmbum e<cb/>va
+                    <l xml:id="SS.6.64.25b"> sukhodakāvagāhaṃ vā śaucam uṣṇāmbum e<cb/>va
                         ca | </l>
 
                     <l xml:id="SS.6.64.25cd"> sāṃgārayāne mahati dhūpāmodamadotkaṭo | </l>
 
 
 
-                    <l xml:id="SS.6.64.27a"> aurṇṇ<unclear>ā</unclear>kauseyasamvītaśayane
+                    <l xml:id="SS.6.64.27a"> aurṇṇakauśeyasamvītaśayane
                         kuthakāstṛte | </l>
 
                     <l xml:id="SS.6.64.27b"> kuṃ<lb n="6"
-                            />kumāgurudig<unclear>dhā</unclear>ṃge nivāte gṛhagahvare | </l>
+                            />kumāgurudig<unclear>dhā</unclear>ṃgo nivāte gṛhagahvare | </l>
 
-                    <l xml:id="SS.6.64.27c"> śayītaśayane cāpi
+                    <l xml:id="SS.6.64.27c"> śayīta śayane cāpi
                             suvistīr<unclear>ṇṇe</unclear> manorame | </l>
 
                     <l xml:id="SS.6.64.27d"> sevyamā<cb/>no mṛduśparśair nirdayair
                         upagūhanaiḥ | </l>
 
                     <l xml:id="SS.6.64.27e"> tatrā<unclear reason="damaged"
-                        >pa</unclear>nītahārāṃś tu priyānā<unclear>ya</unclear>ḥ
-                        śvalaṃkṛtāṃ | </l>
+                        >pa</unclear>nītahārāṃś tu priyā nāryaḥ
+                        svalaṃkṛtāṃ | </l>
 
-                    <l xml:id="SS.6.64.27f"> rāmayeyuyathākālaṃ balād api
-                            madotka<unclear>ṭya</unclear>ḥ | </l>
+                    <l xml:id="SS.6.64.27f"> rāmayeyur yathākālaṃ balād api
+                            madotkaṭāḥ | </l>
                     <cb/>
-                    <l xml:id="SS.6.64.31cd"> eṣa eva vidhiḥ kā<unclear>ya</unclear>ḥ
+                    <l xml:id="SS.6.64.31cd"> eṣa eva vidhiḥ kāryaḥ
                         śiśire samudāhṛtaḥ | </l>
 
-                    <l xml:id="SS.6.64.31a"> hemanta śeṣaḥ śiśiraḥ kecidicchanti vaidyakāḥ
+                    <l xml:id="SS.6.64.31a"> hemantaśeṣaḥ śiśiraḥ ke cid icchanti vaidyakāḥ
                         | </l>
 
                     <l xml:id="SS.6.64.31b">
