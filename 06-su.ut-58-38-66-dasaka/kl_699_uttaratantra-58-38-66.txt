@@ -1981,7 +1981,7 @@ iii) 19ef is placed after 18ab     -->
                         kuthakāstṛte | </l>
 
                     <l xml:id="SS.6.64.27b"> kuṃ<lb n="6"
-                            />kumāgurudig<unclear>dhā</unclear>ṃge nivāte gṛhagahvare | </l>
+                            />kumāgurudig<unclear>dhā</unclear>ṃgo nivāte gṛhagahvare | </l>
 
                     <l xml:id="SS.6.64.27c"> śayīta śayane cāpi
                             suvistīr<unclear>ṇṇe</unclear> manorame | </l>

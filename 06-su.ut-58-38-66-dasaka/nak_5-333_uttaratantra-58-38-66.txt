@@ -2250,10 +2250,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     </l>
                     <pb n="408r" facs="412"/>
 
-                    <l xml:id="SS.6.64.27b"> kuṃkum āguru dig<unclear>dhā</unclear>ṃge
+                    <l xml:id="SS.6.64.27b"> kuṃkumāgurudig<unclear>dhā</unclear>ṃge
                         nivāte gṛhagahvare | </l>
 
-                    <l xml:id="SS.6.64.27c"> śayītaśayane cāpi suvistīrṇṇe manorame || </l>
+                    <l xml:id="SS.6.64.27c"> śayīta śayane cāpi suvistīrṇṇe manorame || </l>
 
                     <l xml:id="SS.6.64.27d"> sevyamāno mṛdusparśai nirddayair upagūhanaiḥ
                         | <g ref="#newa-old-gap-filler"/>

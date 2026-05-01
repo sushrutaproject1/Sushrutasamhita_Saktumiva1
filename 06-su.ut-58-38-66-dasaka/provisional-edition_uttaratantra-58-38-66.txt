@@ -2716,7 +2716,7 @@
                     <l xml:id="SS.6.64.27b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27b</label>
                         <caesura/>
-                         kuṃkumāgurudigdhāṃge nivāte gṛhagahvare | </l>
+                         kuṃkumāgurudigdhāṃgo nivāte gṛhagahvare | </l>
 
                     <l xml:id="SS.6.64.27c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27c</label>
