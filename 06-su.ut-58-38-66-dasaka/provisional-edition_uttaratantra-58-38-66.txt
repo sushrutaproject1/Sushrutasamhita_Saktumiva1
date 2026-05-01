@@ -2726,17 +2726,17 @@
                     <l xml:id="SS.6.64.27d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27d</label>
                         <caesura/>
-                         sevyamāno mṛduśparśair nirdayair upagūhanaiḥ | </l>
+                         sevyamānaṃ mṛduśparśair nirdayair upagūhanaiḥ | </l>
 
                     <l xml:id="SS.6.64.27e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27e</label>
                         <caesura/>
-                         tatrāpanītahārāṃś tu priyānāryaḥ svalaṃkṛtām | </l>
+                         tatrāpanītahārās tu priyā nāryaḥ svalaṃkṛtāḥ | </l>
 
                     <l xml:id="SS.6.64.27f">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27f</label>
                         <caesura/>
-                         rāmayeyur yathākālaṃ balād api madotkaṭyaḥ | </l>
+                         rāmayeyur yathākālaṃ balād api madotkaṭāḥ | </l>
 
                     <l xml:id="SS.6.64.31ab"/>
 

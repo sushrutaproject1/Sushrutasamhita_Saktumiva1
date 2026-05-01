@@ -2259,10 +2259,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         | <g ref="#newa-old-gap-filler"/>
                     </l>
 
-                    <l xml:id="SS.6.64.27e"> tatrāpanītahārāṃs tu priyānāryaḥ svalaṃkṛtāṃ
+                    <l xml:id="SS.6.64.27e"> tatrāpanītahārāṃs tu priyā nāryaḥ svalaṃkṛtāṃ
                         || </l>
 
-                    <l xml:id="SS.6.64.27f"> rāmayeyuryathā<cb/>kālaṃ balād api madotkaṭāḥ
+                    <l xml:id="SS.6.64.27f"> rāmayeyur yathā<cb/>kālaṃ balād api madotkaṭāḥ
                         | </l>
 
 
