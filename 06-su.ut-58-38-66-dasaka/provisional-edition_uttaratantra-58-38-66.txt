@@ -2743,7 +2743,7 @@
                     <l xml:id="SS.6.64.31cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31cd</label>
                         <caesura/>
-                         eṣa eva vidhiḥ kāyaḥ śiśire samudāhṛtaḥ | </l>
+                         eṣa eva vidhiḥ kāryaḥ śiśire samudāhṛtaḥ | </l>
 
                     <l xml:id="SS.6.64.31a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31a</label>
