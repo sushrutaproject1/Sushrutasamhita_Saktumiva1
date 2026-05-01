@@ -2269,7 +2269,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.31cd"> eṣa eva vidhiḥ kāryaḥ śiśire samudāhṛtaḥ || </l>
 
                     <l xml:id="SS.6.64.31a"> hemante śeṣaḥ śiśi<lb n="3"/>raḥ
-                        kecidicchanti vaidyakāḥ | </l>
+                        kecid icchanti vaidyakāḥ | </l>
 
                     <l xml:id="SS.6.64.31b"> medyamārutajaṃ śītaṃ raukṣyaṃ rādā<cb/>najaṃ
                         yataḥ || </l>
