@@ -1999,7 +1999,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.31cd"> eṣa eva vidhiḥ kāryaḥ
                         śiśire samudāhṛtaḥ | </l>
 
-                    <l xml:id="SS.6.64.31a"> hemantaśeṣaḥ śiśiraḥ kecid icchanti vaidyakāḥ
+                    <l xml:id="SS.6.64.31a"> hemantaśeṣaḥ śiśiraḥ ke cid icchanti vaidyakāḥ
                         | </l>
 
                     <l xml:id="SS.6.64.31b">
