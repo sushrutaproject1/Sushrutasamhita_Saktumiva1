@@ -1970,7 +1970,7 @@ iii) 19ef is placed after 18ab     -->
                          kāmatas tan niṣeveta puṣṭim icchan himāga<cb/>me | </l>
 
                     <l xml:id="SS.6.64.25ab"> taile koṣṇe sukheṣṇe vā
-                            praśastam avagā<unclear>ha</unclear>naṃ |</l>
+                            praśastam avagā<unclear reason="damaged">ha</unclear>naṃ |</l>
 
                     <l xml:id="SS.6.64.25a"> saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared
                         bhṛśaṃ | </l>
