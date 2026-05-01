@@ -1970,20 +1970,20 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.25a"> saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared
                         bhṛśaṃ | </l>
 
-                    <l xml:id="SS.6.64.25b"> sukhodakāvagāhaṃ vā saucamuṣṇāmbum e<cb/>va
+                    <l xml:id="SS.6.64.25b"> sukhodakāvagāhaṃ vā śaucam uṣṇāmbum e<cb/>va
                         ca | </l>
 
                     <l xml:id="SS.6.64.25cd"> sāṃgārayāne mahati dhūpāmodamadotkaṭo | </l>
 
 
 
-                    <l xml:id="SS.6.64.27a"> aurṇṇ<unclear>ā</unclear>kauseyasamvītaśayane
+                    <l xml:id="SS.6.64.27a"> aurṇṇakauśeyasamvītaśayane
                         kuthakāstṛte | </l>
 
                     <l xml:id="SS.6.64.27b"> kuṃ<lb n="6"
                             />kumāgurudig<unclear>dhā</unclear>ṃge nivāte gṛhagahvare | </l>
 
-                    <l xml:id="SS.6.64.27c"> śayītaśayane cāpi
+                    <l xml:id="SS.6.64.27c"> śayīta śayane cāpi
                             suvistīr<unclear>ṇṇe</unclear> manorame | </l>
 
                     <l xml:id="SS.6.64.27d"> sevyamā<cb/>no mṛduśparśair nirdayair

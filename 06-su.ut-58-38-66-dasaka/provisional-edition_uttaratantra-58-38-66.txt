@@ -2699,19 +2699,19 @@
                     <l xml:id="SS.6.64.25b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25b</label>
                         <caesura/>
-                         sukhodakāvagāhaṃ vā saucam uṣṇāmbum eva ca | </l>
+                         sukhodakāvagāhaṃ vā śaucam uṣṇāmbum eva ca | </l>
 
                     <l xml:id="SS.6.64.25cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25cd</label>
                         <caesura/>
-                         sāṃgārayāne mahati dhūpāmodamadotkaṭo | </l>
+                         sāṃgārayāne mahati dhūpāmodamadotkaṭau | </l>
 
                     <l xml:id="SS.6.64.26"/>
                     <l xml:id="SS.6.64.27"/>
                     <l xml:id="SS.6.64.27a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27a</label>
                         <caesura/>
-                         aurṇṇākauseyasamvītaśayane kuthakāstṛte | </l>
+                         aurṇṇakauśeyasamvītaśayane kuthakāstṛte | </l>
 
                     <l xml:id="SS.6.64.27b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27b</label>
@@ -2721,7 +2721,7 @@
                     <l xml:id="SS.6.64.27c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27c</label>
                         <caesura/>
-                         śayītaśayane cāpi suvistīrṇṇe manorame | </l>
+                         śayīta śayane cāpi suvistīrṇṇe manorame | </l>
 
                     <l xml:id="SS.6.64.27d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27d</label>
