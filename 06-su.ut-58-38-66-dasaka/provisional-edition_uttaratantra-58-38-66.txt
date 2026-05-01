@@ -2731,12 +2731,12 @@
                     <l xml:id="SS.6.64.27e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27e</label>
                         <caesura/>
-                         tatrāpanītahārāṃś tu priyānāyaḥ śvalaṃkṛtāṃ | </l>
+                         tatrāpanītahārāṃś tu priyānāryaḥ svalaṃkṛtām | </l>
 
                     <l xml:id="SS.6.64.27f">
                         <label xml:lang="en">cf. 1938 ed. 6.64.27f</label>
                         <caesura/>
-                         rāmayeyuyathākālaṃ balād api madotkaṭyaḥ | </l>
+                         rāmayeyur yathākālaṃ balād api madotkaṭyaḥ | </l>
 
                     <l xml:id="SS.6.64.31ab"/>
 

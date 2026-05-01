@@ -1990,10 +1990,10 @@ iii) 19ef is placed after 18ab     -->
                         upagūhanaiḥ | </l>
 
                     <l xml:id="SS.6.64.27e"> tatrā<unclear reason="damaged"
-                        >pa</unclear>nītahārāṃś tu priyānā<unclear>ya</unclear>ḥ
-                        śvalaṃkṛtāṃ | </l>
+                        >pa</unclear>nītahārāṃś tu priyānāryaḥ
+                        svalaṃkṛtāṃ | </l>
 
-                    <l xml:id="SS.6.64.27f"> rāmayeyuyathākālaṃ balād api
+                    <l xml:id="SS.6.64.27f"> rāmayeyur yathākālaṃ balād api
                             madotka<unclear>ṭya</unclear>ḥ | </l>
                     <cb/>
                     <l xml:id="SS.6.64.31cd"> eṣa eva vidhiḥ kā<unclear>ya</unclear>ḥ
