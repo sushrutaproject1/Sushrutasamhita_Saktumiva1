@@ -2228,11 +2228,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          kāma<lb n="5"/>tas tan niseveta puṣṭim icchan himāgame | </l>
 
-                    <l xml:id="SS.6.64.25ab"> taile koṣṇa sukhoṣṇe<cb/> vā
-                        praśastamavagāhanaṃ || </l>
+                    <l xml:id="SS.6.64.25ab"> tailakoṣṇasukhoṣṇe<cb/> vā
+                        praśastam avagāhanaṃ || </l>
 
                     <l xml:id="SS.6.64.25a"> saśiraṣkan tathābhyaṅgam vyā<gap
-                            reason="omitted" extent="2" unit="char"/>cācare bhṛśaṃ | </l>
+                            reason="omitted" extent="2" unit="char"/>cācared bhṛśaṃ | </l>
 
                     <l xml:id="SS.6.64.25b"> sukhodakāvagāham vā śauca<lb n="6"/>muṣṇāmbum
                         eva ca || </l>

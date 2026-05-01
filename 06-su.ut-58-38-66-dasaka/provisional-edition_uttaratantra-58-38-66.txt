@@ -2645,7 +2645,7 @@
                     <l xml:id="SS.6.64.20">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20</label>
                         <caesura/>
-                         candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ laghum |
+                         candanaṃ vā sakarpūraṃ vāsaś cāmalinaṃ laghu |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sīdhoḥ pānañ ca yuktitaḥ | </l>
 
@@ -2689,12 +2689,12 @@
                     <l xml:id="SS.6.64.25ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25ab</label>
                         <caesura/>
-                         tailai koṣṇe sukheṣṇe vā praśastamavagāhanaṃ |</l>
+                         taile koṣṇe sukhoṣṇe vā praśastam avagāhanam |</l>
 
                     <l xml:id="SS.6.64.25a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25a</label>
                         <caesura/>
-                         saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared bhṛśaṃ | </l>
+                         saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared bhṛśam | </l>
 
                     <l xml:id="SS.6.64.25b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.25b</label>

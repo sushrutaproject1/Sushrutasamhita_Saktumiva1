@@ -1938,7 +1938,7 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.19a"> śaratsu pavanañ caiva kamālo<cb/>tpalaśāliṣu | </l>
 
-                    <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ
+                    <l xml:id="SS.6.64.20"> candanaṃ vā sakarpūraṃ vāsaś cāmalinaṃ
                             laghuḥ |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sīdhvoḥ pānañ ca yukti<lb n="4"/>taḥ | </l>
@@ -1967,8 +1967,8 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          kāmatas tan niṣeveta puṣṭim icchan himāga<cb/>me | </l>
 
-                    <l xml:id="SS.6.64.25ab"> tailai koṣṇe sukheṣṇe vā
-                            praśastamavagā<unclear>ha</unclear>naṃ |</l>
+                    <l xml:id="SS.6.64.25ab"> taile koṣṇe sukheṣṇe vā
+                            praśastam avagā<unclear>ha</unclear>naṃ |</l>
 
                     <l xml:id="SS.6.64.25a"> saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared
                         bhṛśaṃ | </l>
