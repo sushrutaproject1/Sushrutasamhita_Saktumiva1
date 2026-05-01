@@ -2748,7 +2748,7 @@
                     <l xml:id="SS.6.64.31a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31a</label>
                         <caesura/>
-                         hemanta śeṣaḥ śiśiraḥ kecid icchanti vaidyakāḥ | </l>
+                         hemantaśeṣaḥ śiśiraḥ ke cid icchanti vaidyakāḥ | </l>
 
                     <l xml:id="SS.6.64.31b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31b</label>
