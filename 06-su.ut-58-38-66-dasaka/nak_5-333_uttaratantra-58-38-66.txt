@@ -2271,10 +2271,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.31a"> hemantaśeṣaḥ śiśi<lb n="3"/>raḥ
                         ke cid icchanti vaidyakāḥ | </l>
 
-                    <l xml:id="SS.6.64.31b"> medyamārutajaṃ śītaṃ raukṣyaṃ rādā<cb/>najaṃ
+                    <l xml:id="SS.6.64.31b"> medyamārutajaṃ śītaṃ raukṣyaṃ cādā<cb/>najaṃ
                         yataḥ || </l>
 
-                    <l xml:id="SS.6.64.31c"> bhajejjijīviṣus tatra soṣṇasnigdhataramvidhiṃ
+                    <l xml:id="SS.6.64.31c"> bhajej jijīviṣus tatra soṣṇasnigdhataram vidhiṃ
                         | </l>
 
                     <l xml:id="SS.6.64.31d"> tatra manthamavasyāyam pravātaṃ rūkṣabhoja<lb
