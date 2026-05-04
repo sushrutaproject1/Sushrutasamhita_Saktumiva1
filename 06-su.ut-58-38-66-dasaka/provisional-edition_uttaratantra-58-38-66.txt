@@ -2758,7 +2758,7 @@
                     <l xml:id="SS.6.64.31c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31c</label>
                         <caesura/>
-                         bhajejjijīviṣus tatra soṣṇasnigdhataranvidhiṃ | </l>
+                         bhajejjijīviṣus tatra soṣṇasnigdhataran vidhim | </l>
 
                     <l xml:id="SS.6.64.31d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31d</label>

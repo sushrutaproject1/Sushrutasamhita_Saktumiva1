@@ -2004,10 +2004,10 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.31b">
                         <unclear reason="damaged">me</unclear><pb facs="263" n="206v"/><lb
-                            n="1"/>ghamāru<unclear>ta</unclear>jaṃ śītaṃ raukṣyaṃ
+                            n="1"/>ghamārutajaṃ śītaṃ raukṣyaṃ
                         cādānajaṃ yataḥ | </l>
 
-                    <l xml:id="SS.6.64.31c"> bhajejjijīviṣus tatra soṣṇasnigdhataranvidhiṃ
+                    <l xml:id="SS.6.64.31c"> bhajej jijīviṣus tatra soṣṇasnigdhataran vidhiṃ
                         | </l>
 
                     <l xml:id="SS.6.64.31d"> tatra
