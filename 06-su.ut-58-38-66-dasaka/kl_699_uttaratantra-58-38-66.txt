@@ -2038,10 +2038,10 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          auṣṇyād vasante viṣyaṇṇa kurute vividhān gadān | </l>
 
-                    <l xml:id="SS.6.64.33"> ato mbūmadhurasni<cb/>gdhadivāsvapna gurūṇi ca
+                    <l xml:id="SS.6.64.33"> ato mbumadhurasni<cb/>gdhadivāsvapnagurūṇi ca
                         |
                         <caesura/>
-                         varjjayed vamanādīni ka<unclear extent="1" unit="char"/>ṇy api ca
+                         varjjayed vamanādīni ka<unclear>rm</unclear>āṇy api ca
                         kārayet | </l>
 
                     <l xml:id="SS.6.64.34"> ṣaṣṭikā<unclear reason="damaged"

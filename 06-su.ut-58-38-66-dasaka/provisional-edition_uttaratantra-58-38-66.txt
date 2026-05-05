@@ -2810,9 +2810,9 @@
                     <l xml:id="SS.6.64.33">
                         <label xml:lang="en">cf. 1938 ed. 6.64.33</label>
                         <caesura/>
-                         ato mbūmadhurasnigdhadivāsvapna gurūṇi ca |
+                         ato 'mbūmadhurasnigdhadivāsvapnagurūṇi ca |
                         <caesura/>
-                         varjjayed vamanādīni kaṇy api ca kārayet | </l>
+                         varjjayed vamanādīni karmāṇy api ca kārayet | </l>
 
                     <l xml:id="SS.6.64.34">
                         <label xml:lang="en">cf. 1938 ed. 6.64.34</label>

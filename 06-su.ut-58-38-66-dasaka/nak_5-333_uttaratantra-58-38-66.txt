@@ -2305,7 +2305,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          auṣṇyād vasante viṣyarṇṇa kurute vividhān gadān || </l>
 
-                    <l xml:id="SS.6.64.33"> ato mbumadhurasnigdhadivāsvapna gurūṇi ca |<pb
+                    <l xml:id="SS.6.64.33"> ato mbumadhurasnigdhadivāsvapnagurūṇi ca |<pb
                             n="408v" facs="412"/>
                         <caesura/>
                          varjjayed vamanādīni karmmāṇy api ca kārayet || </l>
