@@ -2810,7 +2810,7 @@
                     <l xml:id="SS.6.64.33">
                         <label xml:lang="en">cf. 1938 ed. 6.64.33</label>
                         <caesura/>
-                         ato 'mbūmadhurasnigdhadivāsvapnagurūṇi ca |
+                         ato 'mbumadhurasnigdhadivāsvapnagurūṇi ca |
                         <caesura/>
                          varjjayed vamanādīni karmāṇy api ca kārayet | </l>
 
@@ -2831,8 +2831,9 @@
                     <l xml:id="SS.6.64.36">
                         <label xml:lang="en">cf. 1938 ed. 6.64.36</label>
                         <caesura/>
-                         vyāyāmam añjanan dhūmaṃ tīkṣṇañ ca kavaḍagrahaṃ | uṣṇāmbunā ca
-                        sarvārthān seveta kusumāgame | </l>
+                         vyāyāmam añjanan dhūmaṃ tīkṣṇañ ca kavaḍagrahaṃ | 
+                        <caesura/>
+                         uṣṇāmbunā ca sarvārthān seveta kusumāgame | </l>
 
                     <l xml:id="SS.6.64.37ab"/>
 
