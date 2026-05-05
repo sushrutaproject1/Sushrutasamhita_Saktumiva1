@@ -1735,10 +1735,10 @@
                         || </l>
 
 
-                    <l xml:id="SS.6.64.32"> (hemante nicitaḥ śleṣmā śaityācchītaśarīriṇām
+                    <l xml:id="SS.6.64.32"> (hemante nicitaḥ śleṣmā śaityāc chītaśarīriṇām
                         |
                         <caesura/>
-                         auṣṇyādvasante kupitaḥ kurute ca gadān bahūn || </l>
+                         auṣṇyād vasante kupitaḥ kurute ca gadān bahūn || </l>
 
                     <l xml:id="SS.6.64.33"> tato 'mlamadhurasnigdhalavaṇāni gurūṇi ca |
                         <caesura/>

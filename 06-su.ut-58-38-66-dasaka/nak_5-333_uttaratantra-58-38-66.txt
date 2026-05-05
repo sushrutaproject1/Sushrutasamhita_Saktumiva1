@@ -2271,40 +2271,39 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.31a"> hemantaśeṣaḥ śiśi<lb n="3"/>raḥ
                         ke cid icchanti vaidyakāḥ | </l>
 
-                    <l xml:id="SS.6.64.31b"> medyamārutajaṃ śītaṃ raukṣyaṃ cādā<cb/>najaṃ
+                    <l xml:id="SS.6.64.31b"> meghamārutajaṃ śītaṃ raukṣyaṃ cādā<cb/>najaṃ
                         yataḥ || </l>
 
                     <l xml:id="SS.6.64.31c"> bhajej jijīviṣus tatra soṣṇasnigdhataram vidhiṃ
                         | </l>
 
-                    <l xml:id="SS.6.64.31d"> tatra manthamavasyāyam pravātaṃ rūkṣabhoja<lb
+                    <l xml:id="SS.6.64.31d"> tatra mantham avasyāyam pravātaṃ rūkṣabhoja<lb
                             n="4"/>naṃ || </l>
 
                     <l xml:id="SS.6.64.31e">
-                        <unclear>ma</unclear>lināni ca vāsānsi tathā snānañ ca varjjayed
+                        malināni ca vāsānsi tathā snānañ ca varjjayed
                         iti || 0 || <cb/>
                     </l>
 
-                    <l xml:id="SS.6.64.31f"> tuṣārapavanirhāradīptabhāskararasmiṣu | </l>
+                    <l xml:id="SS.6.64.31f"> tuṣāra<pc> </pc>pava<pc> </pc>nirhāradīptabhāskara<pc> </pc>rasmiṣu | </l>
 
                     <l xml:id="SS.6.64.31g"> dineṣu jṛmbhamāṇeṣu hīymānāsu rātriṣu || </l>
 
-                    <l xml:id="SS.6.64.31h"> puṣpā<unclear>dṛ</unclear>hā<lb n="5"
-                        />saśavalaiś ca lakṣisalayojjvalaiḥ | </l>
+                    <l xml:id="SS.6.64.31h"> puṣpāṭṭahā<lb n="5"
+                        />saśavalaiś cala<unclear>tki</unclear>salayojjvalaiḥ | </l>
 
-                    <l xml:id="SS.6.64.31i"> kokilo<unclear extent="1" unit="char"
-                        />ṣṭasamadabhra<cb/>maroṅgītanisvanaiḥ || </l>
+                    <l xml:id="SS.6.64.31i"> kokilodghuṣṭasamadabhra<cb/>marodgītanisvanaiḥ || </l>
 
-                    <l xml:id="SS.6.64.31j"> darśayan <unclear>su</unclear>vicitrāsu
-                        vanopavanarājiṣū | </l>
+                    <l xml:id="SS.6.64.31j"> darśayatsu vicitrāsu
+                        vanopavanarājiṣu | </l>
 
                     <l xml:id="SS.6.64.31k"> prakupyanti yathoddiṣṭān sisṛkṣa<lb n="6"/>ti
-                            gadā<unclear>t</unclear>kaphaḥ || </l>
+                            gadān kaphaḥ || </l>
 
                     <l xml:id="SS.6.64.32"> hemante nicitaḥ śleṣmā śaityāc chītaḥ
                         śarīriṇāṃ |
                         <caesura/>
-                         auṣṇyād vasante viṣparṇṇa kurute vividhān gadān || </l>
+                         auṣṇyād vasante viṣyarṇṇa kurute vividhān gadān || </l>
 
                     <l xml:id="SS.6.64.33"> ato mbumadhurasnigdhadivāsvapna gurūṇi ca |<pb
                             n="408v" facs="412"/>

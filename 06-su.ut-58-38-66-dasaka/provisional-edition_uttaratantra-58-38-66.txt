@@ -2763,7 +2763,7 @@
                     <l xml:id="SS.6.64.31d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31d</label>
                         <caesura/>
-                         tatra manthamavaśyāyaṃ pravātaṃ rūkṣabhojanaṃ | </l>
+                         tatra mantham avaśyāyaṃ pravātaṃ rūkṣabhojanam | </l>
 
                     <l xml:id="SS.6.64.31e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31e</label>
@@ -2773,39 +2773,39 @@
                     <l xml:id="SS.6.64.31f">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31f</label>
                         <caesura/>
-                         tuṣārapaṭanirhāradīptabhāskararaśmiṣu | </l>
+                         tuṣāra<pc> </pc>paṭa<pc> </pc>nirhāradīptabhāskara<pc> </pc>raśmiṣu | </l>
 
                     <l xml:id="SS.6.64.31g">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31g</label>
                         <caesura/>
-                         dineṣu jyambhamāṇaiṣu hīymānāsu rātriṣu | </l>
+                         dineṣu jṛmbhamāṇeṣu hīymānāsu rātriṣu | </l>
 
                     <l xml:id="SS.6.64.31h">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31h</label>
                         <caesura/>
-                         puṣpāṣṭahāsaśavalaiś ca latkisalayojjvalaiḥ | </l>
+                         puṣpāṭṭahāsaśabalaiś calatkisalayojjvalaiḥ | </l>
 
                     <l xml:id="SS.6.64.31i">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31i</label>
                         <caesura/>
-                         bhramaroṅgītaniḥśvanaiḥ | </l>
+                        kokilodghuṣṭasamadabhramarodgītaniḥsvanaiḥ | </l>
 
                     <l xml:id="SS.6.64.31j">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31j</label>
                         <caesura/>
-                         darśayan suvicitrāsu vanopavanarājiṣū | </l>
+                         darśayatsu vicitrāsu vanopavanarājiṣu | </l>
 
                     <l xml:id="SS.6.64.31k">
                         <label xml:lang="en">cf. 1938 ed. 6.64.31k</label>
                         <caesura/>
-                         prakupyanti yathoddiṣṭaṃ sisṛkṣati gadātkaphaḥ | </l>
+                         prakupyati yathoddiṣṭān sisṛkṣati gadān kaphaḥ | </l>
 
                     <l xml:id="SS.6.64.32">
                         <label xml:lang="en">cf. 1938 ed. 6.64.32</label>
                         <caesura/>
-                         hemante nicitaḥ śleṣmā śaityāc chītaḥ śarīriṇyaṃ |
+                         hemante nicitaḥ śleṣmā śaityāc chītaḥ śarīriṇām |
                         <caesura/>
-                         auṣṇyādvasante viṣyaṇṇa kurute vividhān gadān | </l>
+                         auṣṇyād vasante viṣyaṇṇaṃ kurute vividhān gadān | </l>
 
                     <l xml:id="SS.6.64.33">
                         <label xml:lang="en">cf. 1938 ed. 6.64.33</label>

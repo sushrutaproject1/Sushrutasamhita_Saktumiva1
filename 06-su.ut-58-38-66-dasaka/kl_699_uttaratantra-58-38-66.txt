@@ -2011,33 +2011,32 @@ iii) 19ef is placed after 18ab     -->
                         | </l>
 
                     <l xml:id="SS.6.64.31d"> tatra
-                        manthamava<unclear>ś</unclear>yā<cb/>yaṃ pravātaṃ rūkṣabhojanaṃ | </l>
+                        mantham avaśyā<cb/>yaṃ pravātaṃ rūkṣabhojanaṃ | </l>
 
-                    <l xml:id="SS.6.64.31e"> malināni ca vāsāṃsi tathā śnānañ ca varjayed
+                    <l xml:id="SS.6.64.31e"> malināni ca vāsāṃsi tathā snānañ ca varjayed
                         iti || </l>
 
-                    <l xml:id="SS.6.64.31f"> tuṣārapaṭanirhāradīptabhāskararaśmiṣu | </l>
+                    <l xml:id="SS.6.64.31f"> tuṣāra<pc> </pc>paṭa<pc> </pc>nirhāradīptabhāskara<pc> </pc>raśmiṣu | </l>
 
-                    <l xml:id="SS.6.64.31g"> dineṣu<cb/> jyambhamāṇaiṣu hīymānāsu rātriṣu
+                    <l xml:id="SS.6.64.31g"> dineṣu<cb/> jṛmbhamāṇeṣu hīymānāsu rātriṣu
                         | </l>
 
-                    <l xml:id="SS.6.64.31h"> puṣpā<unclear>ṣṭa</unclear>hāsaśavalaiś ca
-                            <unclear>latki</unclear>salayojjva<unclear reason="damaged"
+                    <l xml:id="SS.6.64.31h"> puṣpā<unclear>ṭṭa</unclear>hāsaśavalaiś calatkisalayojjva<unclear reason="damaged"
                             >laiḥ</unclear> | </l>
 
                     <l xml:id="SS.6.64.31i">
-                        <unclear extent="7" reason="damaged" unit="char"/><lb n="2"
-                            />bhramaroṅgītaniḥ<unclear>ś</unclear>vanaiḥ | </l>
+                        <gap extent="7" reason="damaged" unit="char"/> <lb n="2"
+                            />bhramarodgītaniḥsvanaiḥ | </l>
 
-                    <l xml:id="SS.6.64.31j"> darśayan suvicitrāsu vanopavanarājiṣū | </l>
+                    <l xml:id="SS.6.64.31j"> darśayatsu vicitrāsu vanopavanarājiṣu | </l>
 
-                    <l xml:id="SS.6.64.31k"> prakupyanti yathoddiṣṭaṃ sisṛ<cb/>kṣati
-                        gadātkaphaḥ | </l>
+                    <l xml:id="SS.6.64.31k"> prakupya<unclear reason="smudged">ti</unclear> yathoddiṣṭāṃ sisṛ<cb/>kṣati
+                        gadān kaphaḥ | </l>
 
                     <l xml:id="SS.6.64.32"> hemante nicitaḥ śleṣmā śai<unclear
-                            reason="damaged">tyā</unclear>c chītaḥ śarīriṇyaṃ |
+                            reason="damaged">tyā</unclear>c chītaḥ śarīriṇāṃ |
                         <caesura/>
-                         auṣṇyādvasante viṣyaṇṇa kurute vividhān gadān | </l>
+                         auṣṇyād vasante viṣyaṇṇa kurute vividhān gadān | </l>
 
                     <l xml:id="SS.6.64.33"> ato mbūmadhurasni<cb/>gdhadivāsvapna gurūṇi ca
                         |
