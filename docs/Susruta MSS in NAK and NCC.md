@@ -74,14 +74,15 @@ Descriptive entries at [NGMCP Wiki](http://ngmcp.fdm.uni-hamburg.de/mediawiki/in
 
 8. Amer, Jaipur p. 147.
    ![image-20260830102650737](media/image-20260830102650737.png)
-   Biswas 0427.
+   Biswas 0427 and 0891 
 
-   Which says: 
+   Which says (PDF 155): 
    ![image-20260830105241941](media/image-20260830105241941.png)
 
    Just the Kalpasthāna, 21 folios, copied in VS 1702
    Location: Mozamabad, Rajasthan 303009 [https://maps.app.goo.gl/BoLp4F4zjy9ZpB3j9](https://maps.app.goo.gl/BoLp4F4zjy9ZpB3j9)
-
+   ![image-20260901095220228](media/image-20260901095220228.png)
+   
 9. Anandasrama 572 (Sarira). 972 (Sarira). 2586 (Sarira). 5268. 5781. 
 
 10. Andhra Uni. 2507 (inc.; Sarira). 
