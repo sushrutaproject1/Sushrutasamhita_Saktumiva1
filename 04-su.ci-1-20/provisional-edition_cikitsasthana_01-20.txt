@@ -2716,9 +2716,9 @@
                             madhūcchiṣṭaśārivāsarjjarasamadhukamadhuravarggakṣīrasiddham vā
                             piṇḍatailam iti || purāṇaghṛtam
                             āmalakasarala<pc> </pc>vipakvaṃ śarkkarāmadhumadhuraṃ pānārthe | jīvanīyasiddhaṃ
-                            pariṣekārthe || suṣavīkvāthasiddhaṃ vā | balātailaṃ siddhaṃ
+                            pariṣekārthe | suṣavīkvāthasiddhaṃ vā | balātailaṃ siddhaṃ
                             pariṣekāvagāhabastibhojanārtham iti | śāliṣaṣṭikayavagodhūmānnam
-                            upaseveta | payasā jāṅgalarasena mudgayūṣeṇa vānamlena śoṇitamokṣaṇañ
+                            upaseveta  payasā jāṅgalarasena mudgayūṣeṇa vānamlena | śoṇitamokṣaṇañ
                             cocchritadoṣagrahaṇena vamanavirecanāsthāpanānuvāsanakarmmāseveta || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 4.5.12]</trailer>
                     </lg>
