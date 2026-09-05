@@ -928,17 +928,56 @@ These are the seven sattvic bodies.
     \caption{Sequence of rajasic body types}
     \label{rajasic-bodies}
     \bigskip
-    \begin{tabular}{>{\it}lcc}
-        & \emph{Nepalese} & \emph{vulgate} \\
-        \toprule
-        āsura & 1 & 1 \\   
-        rākṣasa & 2 & 4 \\
-        paiśāca & 3 & 5 \\
-        sarpasattva & 4 & 2 \\
-        pretasattva & 5 & 7 \\
-        śākuna  & 6 & 3 \\
-        \bottomrule
-    \end{tabular}
+%    \begin{tabular}{>{\it}lcc}
+%        & \emph{Nepalese} & \emph{vulgate} \\
+%        \toprule
+%        āsura & 1 & 1 \\   
+%        rākṣasa & 2 & 4 \\
+%        paiśāca & 3 & 5 \\
+%        sarpasattva & 4 & 2 \\
+%        pretasattva & 5 & 6 \\
+%        śākuna  & 6 & 3 \\
+%        \bottomrule
+%    \end{tabular}
+\small
+
+\begin{tikzpicture}[
+    >=Latex,
+    %thick,
+    lbl/.style={font=\itshape},
+    hdr/.style={font=\rmfamily}
+    ]
+% --- column headers ---
+\node[hdr] (H1) at (1,0.8)   {Nepalese};
+\node[hdr] (H2) at (4.5,0.8) {vulgate};
+%\draw (-1.3,0.32) -- (4.3,0.32);
+
+
+% --- left column: Nepalese sequence, top to bottom ---
+\node[lbl,anchor=west] (L1) at (0,0.0)   {1. āsura};
+\node[lbl,anchor=west] (L2) at (0,-0.8) {2. rākṣasa};
+\node[lbl,anchor=west] (L3) at (0,-1.6) {3. paiśāca};
+\node[lbl,anchor=west] (L4) at (0,-2.4) {4. sarpasattva};
+\node[lbl,anchor=west] (L5) at (0,-3.2) {5. pretasattva};
+\node[lbl,anchor=west] (L6) at (0,-4.0) {6. śākuna};
+
+% --- right column: vulgate sequence, top to bottom (note: no "6" in source) ---
+\node[lbl,anchor=west] (R1) at (4,0.0)   {1. āsura};
+\node[lbl,anchor=west] (R2) at (4,-0.8) {2. sarpasattva};
+\node[lbl,anchor=west] (R3) at (4,-1.6) {3. śākuna};
+\node[lbl,anchor=west] (R4) at (4,-2.4) {4. rākṣasa};
+\node[lbl,anchor=west] (R5) at (4,-3.2) {5. paiśāca};
+\node[lbl,anchor=west] (R6) at (4,-4.0) {6. pretasattva};
+
+% --- curved arrows, left to right, one per entity ---
+\draw[->] (L1.east) to[out=0,in=180] (R1.west); % asura
+\draw[->] (L2.east) to[out=0,in=180] (R4.west); % raksasa
+\draw[->] (L3.east) to[out=0,in=180] (R5.west); % paisaca
+\draw[->] (L4.east) to[out=0,in=180] (R2.west); % sarpasattva
+\draw[->] (L5.east) to[out=0,in=180] (R6.west); % pretasattva
+\draw[->] (L6.east) to[out=0,in=180] (R3.west); % sakuna
+
+\end{tikzpicture}
 \end{table}
 
 \subsubsection{Six rajasic bodies}
