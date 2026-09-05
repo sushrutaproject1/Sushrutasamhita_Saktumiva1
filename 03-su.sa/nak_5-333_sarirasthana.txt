@@ -485,12 +485,12 @@ C) Special notes :
                             kiṃ kāraṇaṃ divā svapatyā vikṛtadṛṣṭiḥ | snānānulepanād duḥśīlaḥ |
                                 va<unclear>dhi</unclear>raḥ | añjanād andhaḥ | rodanād
                                 tailābhyaṅgā<unclear>t</unclear> kuṣṭhī |
-                                nakhāvakarttanā<unclear>t</unclear><milestone
-                                facs="dscn3140 fol 162.jpg                             upper"
-                                unit="jpeg"/><pb n="162v" facs="166"/> kunakhaḥ | pralepanāt
-                            khalatiḥ | mārutāyāsasevanād utmatto garbhbho bhavatīty evam etām
-                            pariharet || darbhbha<pc> </pc>saṃstaraṇa<pc> </pc>śāyinīṃ
-                                karatala<pc> </pc>śa<unclear>rā</unclear>va<pc> </pc>parṇṇānām
+                                nakhāvakarttanā<unclear>t</unclear><milestone facs="dscn3140 fol
+                                162.jpg                             upper" unit="jpeg"/><pb n="162v"
+                                facs="166"/> kunakhaḥ | pralepanāt khalatiḥ | mārutāyāsasevanād
+                            utmatto garbhbho bhavatīty evam etām pariharet || darbhbha<pc
+                                > </pc>saṃstaraṇa<pc> </pc>śāyinīṃ karatala<pc
+                                > </pc>śa<unclear>rā</unclear>va<pc> </pc>parṇṇānām
                                 anyatama<pc> </pc>bhojinīṃ haviṣyaṃ<lb n="2"/> tryahaṃ bharttā
                             rakṣet tataḥ śuddhasnātān tu caturthyām anāhata<pc
                             > </pc>vastravā<cb/>sinīm alaṅkṛtāṃ kṛtamaṅgalasvasti<pc> </pc>vācanām
@@ -817,15 +817,15 @@ C) Special notes :
 
                     <lg xml:id="SS.3.3.6.1">
                         <l> tatra prathame divase ṛtumatyāṃ maithunagamanam anāyuṣyam punso bhavati
-                            | yac ca tatrādhīyate garbbhaḥ sapra<milestone
-                                n="!--dscn3143 fol 165 (1st half)--" unit="digital_image"/>savato
-                            vipadyate | dvitīye <damage extent="4" unit="char">ti</damage><damage
-                                extent="2" unit="char">vā</damage>gṛhe vipadyate || tṛtīye 'py evam
-                            asampūrṇṇo 'ṅgo 'lpāyuś ca bhavati | tasmāt trirātram pariharet | na ca
-                            pravarttati raktabījaṃ pradiṣṭaṃ guṇakaraṃ <lb n="2"/> bhavati | yathā
-                            nadyām pratisro<unclear extent="4" reason="illegible" unit="char">tasi
-                                pla ci</unclear>dravyaṃ pratikṣiptaṃ na pratinivarttate | tadvad
-                            bījaṃ draṣṭavyan tasmāt trirātran niyamavantīm pariharet | tatra
+                            | yac ca tatrādhīyate garbbhaḥ sapra<milestone n="!--dscn3143 fol 165
+                                (1st half)--" unit="digital_image"/>savato vipadyate | dvitīye
+                                <damage extent="4" unit="char">ti</damage><damage extent="2"
+                                unit="char">vā</damage>gṛhe vipadyate || tṛtīye 'py evam asampūrṇṇo
+                            'ṅgo 'lpāyuś ca bhavati | tasmāt trirātram pariharet | na ca pravarttati
+                            raktabījaṃ pradiṣṭaṃ guṇakaraṃ <lb n="2"/> bhavati | yathā nadyām
+                                pratisro<unclear extent="4" reason="illegible" unit="char">tasi pla
+                                ci</unclear>dravyaṃ pratikṣiptaṃ na pratinivarttate | tadvad bījaṃ
+                            draṣṭavyan tasmāt trirātran niyamavantīm pariharet | tatra
                             ṛtudvādaśarātran dṛṣṭvānārtta<lb n="3"/>vā bhavati | </l>
                     </lg>
 
@@ -872,10 +872,9 @@ C) Special notes :
                     </lg>
 
                     <lg xml:id="SS.3.3.13">
-                        <l> tatra sadyo<pc> </pc>gṛhīta<milestone
-                                n="!--dscn3143 fol                             165 (2nd half)--"
-                                unit="digital_image"/>garbbhāyāḥ śramo glāniḥ pipāsā
-                                sakthi<pc> </pc>sadanam āṭopaḥ śukraśoṇitayor anubandhaḥ
+                        <l> tatra sadyo<pc> </pc>gṛhīta<milestone n="!--dscn3143 fol
+                                165 (2nd half)--" unit="digital_image"/>garbbhāyāḥ śramo glāniḥ
+                            pipāsā sakthi<pc> </pc>sadanam āṭopaḥ śukraśoṇitayor anubandhaḥ
                             kharasphuraṇaṃ yonyāḥ || </l>
                     </lg>
 
@@ -1022,10 +1021,10 @@ C) Special notes :
                     <lg xml:id="SS.3.3.33">
                         <l> tatra pitṛjamātṛja<pc> </pc>rasa<unclear>jā</unclear>tmaja<pc
                             > </pc>satvasātmyajāni śarīre lakṣaṇāni vakṣyāmaḥ || tatra
-                                keśasmaśru<pc> </pc>danta<pc> </pc>na<milestone
-                                n="!--dscn3145 fol 167 (2nd half)--" unit="digital_image"
-                                />kha<pc> </pc>romāsthi<pc> </pc>retaḥ<pc> </pc>prabhṛtīni pitṛjāni
-                            || māṃsaśoṇitamedomajjā<pc> </pc>hṛnnābhi<pc
+                                keśasmaśru<pc> </pc>danta<pc> </pc>na<milestone n="!--dscn3145 fol
+                                167 (2nd half)--" unit="digital_image"/>kha<pc
+                                > </pc>romāsthi<pc> </pc>retaḥ<pc> </pc>prabhṛtīni pitṛjāni ||
+                                māṃsaśoṇitamedomajjā<pc> </pc>hṛnnābhi<pc
                             > </pc>yakṛtplīhāntragudaprabhṛtīni mṛdūni mātṛjāni | śarīropacayo
                             balavṛddhir vvarṇṇasthi<lb n="2"/>tihāniś ca rasajāni | indriyāṇi jñānam
                             āyuḥ sukhaduḥkhādikaṃ cātmanaḥ satvajāny uttaratra vakṣyāmaḥ | vīryam
@@ -1462,10 +1461,10 @@ C) Special notes :
 
                     <lg xml:id="SS.3.4.80">
                         <l> prakṛtir iha narāṇāṃ <unclear>bhau</unclear>tikī kecid āhuḥ
-                                pavanadahana<lb n="2"/>toyaiḥ kīrttitā<unclear
-                                reason="erased text underneath">s sa</unclear>s tu tisraḥ |
-                            sthiravipulaśarīraḥ pārthiva<cb/>ś cet kṣamāvān śucir atha cirajīvī
-                            nābhasaḥ khair mmahadbhiḥ || </l>
+                                pavanadahana<lb n="2"/>toyaiḥ kīrttitā<unclear reason="erased text
+                                underneath">s sa</unclear>s tu tisraḥ | sthiravipulaśarīraḥ
+                            pārthiva<cb/>ś cet kṣamāvān śucir atha cirajīvī nābhasaḥ khair
+                            mmahadbhiḥ || </l>
                     </lg>
 
                     <lg xml:id="SS.3.4.81">
@@ -1527,7 +1526,8 @@ C) Special notes :
 
                     <lg xml:id="SS.3.4.93">
                         <l>strīlau<g ref="#broken-danda"/><lb n="3"/>lupatvaṃ nairllajjyaṃ paiśāco
-                            guṇasaṃgrahaḥ || tīkṣṇam āyāsavaku<cb/>laṃ krodhanaṃ satvabhīrukaṃ |
+                            guṇasaṃgrahaḥ || tīkṣṇam āyāsavaku<cb/>laṃ krodhanaṃ satvabhīrukaṃ
+                            ||
                         </l>
                     </lg>
 
@@ -2679,12 +2679,11 @@ C) Special notes :
 
                     <lg xml:id="SS.3.8.6">
                         <l> tatra snigdhasvinnam āturaṃ yathā doṣapratyanīkaṃ dravaprāyam annaṃ
-                            bhuktavantaṃ yavāgūm pītam vā yathākālam upa<milestone
-                                n="dscn3165 fol 187" unit="jpeg"/><pb facs="191" n="187v"
-                            />sthāpyāsīnaṃ sthitam vā prāṇān abādhamānaḥ | plotapaṭṭaś
-                            carmmāntarvvalkalalatānām anyatamena yantreṇa yantrayitvā
-                            nātigāḍhannātiśithilaṃ śarīrapradeśam āsādya vidhivacchastra<lb n="2"
-                            />mādāya yathoktāṃ sirāṃ vyadhayet | </l>
+                            bhuktavantaṃ yavāgūm pītam vā yathākālam upa<milestone n="dscn3165 fol
+                                187" unit="jpeg"/><pb facs="191" n="187v"/>sthāpyāsīnaṃ sthitam vā
+                            prāṇān abādhamānaḥ | plotapaṭṭaś carmmāntarvvalkalalatānām anyatamena
+                            yantreṇa yantrayitvā nātigāḍhannātiśithilaṃ śarīrapradeśam āsādya
+                                vidhivacchastra<lb n="2"/>mādāya yathoktāṃ sirāṃ vyadhayet | </l>
                     </lg>
 
                     <lg xml:id="SS.3.8.7">
@@ -2706,8 +2705,8 @@ C) Special notes :
                             samyag yantram badhvā pādasirām vidhyet | upaviṣṭasya hastaṃ gūḍhāṃ<sic
                                 ana="seems                             cancelled"
                             >ṣṭha</sic>guṣṭhanibaddhamuṣṭiṃ samyagāsane sthāpayitvā hastasirāṃ
-                            vidhyet | <unclear>gṛ</unclear>dhrasīviśvacyo<milestone
-                                facs="dscn3165 fol 187" unit="jpeg"/><pb facs="191" n="188rv"
+                            vidhyet | <unclear>gṛ</unclear>dhrasīviśvacyo<milestone facs="dscn3165
+                                fol 187" unit="jpeg"/><pb facs="191" n="188rv"
                             />rākuñcitajānukurpparasya śroṇīpṛṣṭhaskandheṣūnnamitapṛṣṭhasya
                             udarorasau prasārito rasaḥ sphurjjitadehasya bāhūbhyām avalambamānasya
                                 <lb n="2"/> pārśvayoḥ | avanamitameḍhrasya meḍhraṃ |
@@ -2796,15 +2795,14 @@ C) Special notes :
                             śoṇitam praviśatyatipra<unclear>vṛ</unclear>ttirvvā bhavati sātividdhā
                             nāma kuñcitāyām apyevaṃ | ku<lb n="6"/>ṇṭhaśastrapramathitāpṛthulabhāvam
                             āpannā piccitā nāma anāsāditamantayoś ca bahuśaḥ | kuṭṭitākuṭṭitā nāma
-                                śītabha<sic
-                                ana="two oblique lines above it perhaps indicating that it is cancelled"
-                                >yā</sic><metamark cert="high"
+                                śītabha<sic ana="two oblique lines above it perhaps indicating that
+                                it is cancelled">yā</sic><metamark cert="high"
                                 function="to_indicate_insertion_in_some_line_of_the_digital_image"
                                 place="below">sma</metamark>mūrcchābhir apravṛttaśoṇitā
-                                apra<unclear>srū</unclear>tā nāma tī<milestone
-                                facs="dscn3167 fol 189" unit="jpeg"/><pb facs="192" n="189v"
-                            />kṣṇamahāmukhaśastraviddhā anudīrṇṇā nāma alparaktasrāvinyanteviddhā
-                            nāma| kṣīṇaśoṇitānilapūrṇṇāpariśuṣkā nāma | caturthabhāgamāsāditā
+                                apra<unclear>srū</unclear>tā nāma tī<milestone facs="dscn3167 fol
+                                189" unit="jpeg"/><pb facs="192" n="189v"/>kṣṇamahāmukhaśastraviddhā
+                            anudīrṇṇā nāma alparaktasrāvinyanteviddhā nāma|
+                            kṣīṇaśoṇitānilapūrṇṇāpariśuṣkā nāma | caturthabhāgamāsāditā
                                 kiñcitpravṛttaśoṇitākū<lb n="2"/>ṇitā nāma | dutthānabandhodve<sic
                                 ana="ṣi">pi</sic>ṇyāśoṇitasaṃmoho bhavati | sā vepitā nāma |
                             anusthitāyām apyevamaśastrakṛtyā avyadhyā nāma | chitvāt ipravṛttaśo<lb

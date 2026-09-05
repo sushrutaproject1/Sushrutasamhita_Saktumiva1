@@ -2034,9 +2034,11 @@
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.89ab]</trailer>
                     </lg>
 
-                    <lg xml:id="SS.3.4.89cd"><l/></lg>
+                    <lg xml:id="SS.3.4.89cd">
+                        <l/>
+                    </lg>
 
-                    
+
                     <lg xml:id="SS.3.4.89.add">
                         <l> ekāntagrāhitā raudryam asūyādharmmavākyatā | </l>
                         <trailer xml:lang="en">[3.4.89.add]</trailer>
@@ -2053,7 +2055,9 @@
                     <lg xml:id="SS.3.4.93">
                         <l> strīlolupatvaṃ nairllajjyaṃ paiśāco guṇasaṅgrahaḥ ||
                             <caesura/>
-                             tīkṣṇam āyāsavakulaṃ krodhanaṃ satvabhīrukaṃ | </l>
+                             tīkṣṇam āyāsabahulaṃ krodhanaṃ sattvabhīrukam |<anchor
+                                xml:id="SS.3.4.93-n1"/>
+                        </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.93]</trailer>
                     </lg>
 
@@ -3298,16 +3302,16 @@
                         <l> tatra vyadhyasirāṃ puruṣaṃ pratyād ity amukhamarannimātrocchrite
                             niveśyāsane sakthnor ākuñcitayor nniveśya kurpparasandhidvayaṃ
                             hastāvantagūḍhāṅguṣṭhakṛtamuṣṭīm anyayo<unclear ana="visarga seems to be
-                                inserted later slightly above the line."
-                                >ḥ</unclear> sthāpayitvā yantraśāṭakena parikṣipya grīvāyām anyena
-                            paścāt sthitena puruṣeṇa vāmahastena śāṭakāntadvayaṃ grāhayitvā
-                            sirotthāpanārtham asṛksrāvaṇārthañ ca yantram pramāṇena pīḍayet |
-                            karmmapuruṣaś ca mukhaṃ vāyunā pūrayet | uttamāṅgagatānām eṣa
-                            sirotthāpam ayantravidhiḥ | sthitasakthim īṣet kuñcitapādam uccaiḥ
-                            sthāpayitvā vyadhapradeśasyopari samyag yantram badhvā pādasirām vidhyet
-                            | upaviṣṭasya hastaṃ gūḍhāṃ<sic ana="seems cancelled"
-                            >ṣṭha</sic>guṣṭhanibaddhamuṣṭiṃ samyagāsane sthāpayitvā hastasirāṃ
-                            vidhyet | gṛdhrasīviśvacyorākuñcitajānukurpparasya
+                                inserted later slightly above the line.">ḥ</unclear> sthāpayitvā
+                            yantraśāṭakena parikṣipya grīvāyām anyena paścāt sthitena puruṣeṇa
+                            vāmahastena śāṭakāntadvayaṃ grāhayitvā sirotthāpanārtham
+                            asṛksrāvaṇārthañ ca yantram pramāṇena pīḍayet | karmmapuruṣaś ca mukhaṃ
+                            vāyunā pūrayet | uttamāṅgagatānām eṣa sirotthāpam ayantravidhiḥ |
+                            sthitasakthim īṣet kuñcitapādam uccaiḥ sthāpayitvā vyadhapradeśasyopari
+                            samyag yantram badhvā pādasirām vidhyet | upaviṣṭasya hastaṃ gūḍhāṃ<sic
+                                ana="seems cancelled">ṣṭha</sic>guṣṭhanibaddhamuṣṭiṃ samyagāsane
+                            sthāpayitvā hastasirāṃ vidhyet |
+                            gṛdhrasīviśvacyorākuñcitajānukurpparasya
                             śroṇīpṛṣṭhaskandheṣūnnamitapṛṣṭhasya udarorasau prasārito rasaḥ
                             sphurjjitadehasya bāhūbhyām avalambamānasya pārśvayoḥ |
                             avanamitameḍhrasya meḍhraṃ | unnāmitavidaṣṭajihvāsyādhojihvāyām |
@@ -3404,8 +3408,7 @@
                             kuṇṭhaśastrapramathitāpṛthulabhāvam āpannā piccitā nāma
                             anāsāditamantayoś ca bahuśaḥ | kuṭṭitākuṭṭitā nāma śītabha<sic ana="two
                                 oblique lines above it                             perhaps
-                                indicating that it is cancelled"
-                                >yā</sic><metamark cert="high"
+                                indicating that it is cancelled">yā</sic><metamark cert="high"
                                 function="to_indicate_insertion_in_some_line_of_the_folio"
                                 place="below">sma</metamark>mūrcchābhir apravṛttaśoṇitā aprasrūtā
                             nāma tīkṣṇamahāmukhaśastraviddhā anudīrṇṇā nāma
@@ -4511,6 +4514,16 @@
                 <foreign>bādhate</foreign>, to <foreign>bādhyate</foreign> as the intransative use
             of the former is not clearly attested.</note>
     </standOff>
+
+    <standOff corresp="#SS.3.4.93" type="Emendation">
+        <note target="#SS.3.4.93-n1" xml:lang="en">Witness H reads <foreign xml:lang="sa"
+                >āyāsabakulam</foreign> which we take as a mistranscription of <foreign
+                xml:lang="sa">āyāsabahulam</foreign>. Given the context, one wonders whether there
+            is a historical connection or confusion with Hindī <foreign xml:lang="hi-Dev"
+                >ऐयाश</foreign> "debauched, lewd person." </note>
+    </standOff>
+
+
     <standOff corresp="#SS.3.5.18" type="Testimonia">
         <note target="#SS.3.5.18-n1" xml:lang="en">See Hoernle's edition and discussion of this
             passage (Hoernle 1907: 218--219).</note>
