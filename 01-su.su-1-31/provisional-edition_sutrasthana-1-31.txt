@@ -3234,7 +3234,7 @@
                     <lg xml:id="SS.1.14.38">
                         <l> tan nātiśītair laghubhiḥ snigdhaiḥ śoṇitavardhanaiḥ |
                             <caesura/>
-                             īṣadamblair anamblair vā bhojanaiḥ samupācaret ||</l>
+                             īṣad amlair anamlair vā bhojanaiḥ samupācaret ||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.14.38]</trailer>
                     </lg>
 

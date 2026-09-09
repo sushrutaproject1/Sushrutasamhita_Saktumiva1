@@ -2219,7 +2219,7 @@
                     <lg xml:id="SS.1.14.38"><l> taṃ nātiśītair laghubhiḥ snigdhaiḥ
                         śoṇitavardhanaiḥ |
                         <caesura/>
-                         īṣadamlair anamlair vā bhojanaiḥ samupācaret ||38||</l></lg>
+                         īṣad amlair anamlair vā bhojanaiḥ samupācaret ||38||</l></lg>
 
                     <lg xml:id="SS.1.14.39"><l> caturvidhaṃ yad etad dhi rudhirasya nivāraṇam
                         |

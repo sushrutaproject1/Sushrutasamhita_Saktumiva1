@@ -2359,7 +2359,7 @@
                         pavanaś ca paraṃ kopaṃ yāti tasmāt prayatnataḥ || </l></lg>
 
                     <lg xml:id="SS.1.14.38"><l> tan nātiśītair llaghubhiḥ snigdhaiḥ
-                        śoṇitevarddhanaiḥ | īṣa<pb n="27v" facs="29"/>damlair anamlair vvā
+                        śoṇitevarddhanaiḥ | īṣa<pb n="27v" facs="29"/>d amlair anamlair vvā
                         bhojanaiḥ samupācaret || </l></lg>
 
                     <lg xml:id="SS.1.14.39"><l> caturvvidhaṃ yad etad dhi
