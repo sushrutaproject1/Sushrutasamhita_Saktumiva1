@@ -2739,7 +2739,7 @@
                     <lg xml:id="SS.4.5.15">
                         <l> abhyañjanaparīṣekapradehavyajanānilāḥ
                             <caesura/>
-                             saraṇānyapravātāni manojñāni mahānti ca || </l>
+                             śaraṇāny apravātāni manojñāni mahānti ca || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 4.5.15]</trailer>
                     </lg>
 

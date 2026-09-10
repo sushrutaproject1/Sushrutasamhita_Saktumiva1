@@ -2405,7 +2405,7 @@
                     <lg xml:id="SS.4.5.15">
                         <l> upanāhaparīṣekapradehābhyañjanāni ca |
                             <caesura/>
-                             śaraṇānyapravātāni manojñāni mahānti ca || </l>
+                             śaraṇāny apravātāni manojñāni mahānti ca || </l>
                     </lg>
 
                     <pb facs="511" n="427a"/>
