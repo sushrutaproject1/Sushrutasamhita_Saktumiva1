@@ -78,6 +78,14 @@
                         Devanāgarī. See description at PanditProject <ptr
                             target="https://www.panditproject.org/entity/113868/manuscript"
                         />.</witness>
+
+                    <witness xml:id="RORI_6838">MS Jaipur RORI 6838 <abbr type="siglum"
+                            >RORI_6838</abbr>
+                        <idno type="siglum">MS Jaipur RORI 6838</idno> A paper manuscript
+                        in Western Indian Devanāgarī. See description at PanditProject
+                            <ptr
+                            target="https://www.panditproject.org/entity/108061/manuscript"
+                        />. </witness>
                 </listWit>
 
             </sourceDesc>
@@ -2132,7 +2140,11 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.93cd">
-                        <l> asamvibhāgam alasan duḥśīlam anusūcakam | </l>
+                        <l> asamvibhāgam alasan <app>
+                                <lem>duḥkhaśīlam asūyakam</lem>
+                                <rdg wit="#RORI_6838">duḥkhaśīlam asūyakaṃ</rdg>
+                            </app> |<anchor xml:id="SS.3.4.93cd-n1"/>
+                        </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.93cd]</trailer>
                     </lg>
 
@@ -4727,6 +4739,14 @@
             wonders whether there is a historical connection or confusion with Hindī
                 <foreign xml:lang="hi-Dev">ऐयाश</foreign> "debauched, lewd person."
         </note>
+    </standOff>
+
+    <standOff corresp="#SS.3.4.93cd" type="Emendation">
+        <note target="#SS.3.4.93cd-n1" xml:lang="en">We read against witness H and with
+            the vulgate and the mūla as recorded in MS Jaipur RORI 6838 of Gayadāsa's
+                <title xml:lang="sa">Nyāyacandrikā</title>. This makes better sense and
+            avoids the problematic lexeme <foreign xml:lang="sa">anusūcakam</foreign> in
+            spite of lectio dificilior.</note>
     </standOff>
 
 
