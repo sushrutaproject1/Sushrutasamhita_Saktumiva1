@@ -2429,7 +2429,7 @@ iii) 19ef is placed after 18ab     -->
                         </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add7">
-                        <l> dineṣu<cb/> jṛmbhamāṇeṣu hīymānāsu rātriṣu | </l>
+                        <l> dineṣu<cb/> jṛmbhamāṇeṣu hīyamānāsu rātriṣu | </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add8">
                         <l> puṣpā<unclear>ṭṭa</unclear>hāsaśavalaiś calatkisalayojjva<unclear

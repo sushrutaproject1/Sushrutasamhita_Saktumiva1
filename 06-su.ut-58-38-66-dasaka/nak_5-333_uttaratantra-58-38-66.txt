@@ -2681,7 +2681,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add7">
-                        <l> dineṣu jṛmbhamāṇeṣu hīymānāsu rātriṣu || </l>
+                        <l> dineṣu jṛmbhamāṇeṣu hīyamānāsu rātriṣu || </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add8">
                         <l> puṣpāṭṭahā<lb n="5"/>saśavalaiś cala<unclear>tki</unclear>salayojjvalaiḥ
