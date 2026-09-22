@@ -2922,7 +2922,7 @@
                     <lg xml:id="SS.6.64.31.add9">
                         <l>
                             <caesura/>
-                             kokilodghuṣṭasamadabhramarodgītaniḥsvanaiḥ ||37|| </l>
+                             kokilodghuṣṭasamadabhramarodgītanisvanaiḥ ||37|| </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add10">
                         <l>
