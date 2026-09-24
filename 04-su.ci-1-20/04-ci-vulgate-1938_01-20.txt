@@ -2426,7 +2426,7 @@
                         <l> apatānakinam asrastākṣam avakrabhruvam astabdhameḍhram asvedanam
                             avepanam apralāpinam akhaṭvāpātinam abahirāyāminaṃ copakramet | tatra
                             prāg eva snehābhyaktaṃ svinnaśarīram avapīḍanena tīkṣṇenopakrameta
-                            śiraḥśuddhyarthaṃ; anantaraṃ
+                            śiraḥśuddhyarthaṃ ; anantaraṃ
                             vidārigandhādikvāthamāṃsarasakṣīradadhipakvaṃ sarpir acchaṃ pāyayet,
                             tathā hi nātimātraṃ vāyuḥ prasarati; tato bhadradārvādivātaghnagaṇam
                             āhṛtya sayavakolakulatthaṃ sānūpaudakamāṃsaṃ pañcavargam ekataḥ

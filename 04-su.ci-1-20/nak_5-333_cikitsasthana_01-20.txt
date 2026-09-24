@@ -2583,7 +2583,7 @@ Special Note:
                                     function="pointer_to_line_number"
                             >2</metamark></add>pamānam akhaṭvāyātinam abahirāyāminañ
                                 tatra<g ref="#newa-gap-filler"/>
-                            <lb n="6"/>prāgaiva snehābhyaktaṃ svinnaśarīram avapīḍena
+                            <lb n="6"/>prāg aiva snehābhyaktaṃ svinnaśarīram avapīḍena
                             tīkṣṇenopakramet śiraḥśuddhyarthaṃ | athānantaram
                             vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir accham
                                 pāyaye<pb n="220v" facs="224"/><lb n="1"/>t | tathā
