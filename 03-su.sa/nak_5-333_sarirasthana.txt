@@ -1668,11 +1668,11 @@ C) Special notes :
                     </lg>
 
                     <lg xml:id="SS.3.4.97">
-                        <l> satvavudhāṅgahīnaḥ syād āhāre kevale rataḥ |
+                        <l> satvavuddhāṅgahīnaḥ syād āhāre kevale rataḥ |
                             <caesura/>
                             <pb n="173v" facs="177"/>
-                            <g ref="#newa-placeholder-mark"/> priyārthakāmarahitaḥ satva
-                            vānaspate sthitaḥ naraḥ || </l>
+                            <g ref="#newa-placeholder-mark"/> priyārthakāmarahitaḥ satve
+                            vānaspate sthitaḥ  || </l>
                     </lg>
 
                     <lg xml:id="SS.3.4.98">

@@ -2176,23 +2176,23 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.96">
-                        <l> anavasthitatā maurkhyaṃ bhīrutvaṃ toyakāmatā ||
+                        <l> anavasthitatā maurkhyaṃ bhīrutvaṃ toyakāmatā ||<anchor xml:id="SS.3.4.96-n2"/>
                             <caesura/>
-                             parasparābhimarṣaś ca matsyasarvvātmakā guṇāḥ || </l>
+                             parasparābhimarṣaś ca matsyasattvātmakā guṇāḥ ||<anchor xml:id="SS.3.4.96-n1"/> </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.96]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.4.97">
-                        <l> sattvabudhāṅgahīnaḥ syād āhāre kevale rataḥ |
+                        <l> sarvabuddhyaṅgahīnaḥ syād āhāre kevale rataḥ |<anchor xml:id="SS.3.4.97-n1"/>
                             <caesura/>
-                             priyārthakāmarahitaḥ sattva vānaspate sthitaḥ naraḥ || </l>
+                             priyārthakāmarahitaḥ sattve vānaspate sthitaḥ || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.97]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.4.98">
-                        <l> ity ete trividhāḥ kāyāḥ proktā vairājasādayaḥ |
+                        <l> ity ete trividhāḥ kāyāḥ proktā vai rājasādayaḥ |
                             <caesura/>
-                             vijñāya kāyaprakṛtim anurūpāṃ kriyāṃ cared iti || </l>
+                             vijñāya kāyaprakṛtim anurūpāṃ kriyāṃ cared || iti || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.98]</trailer>
                     </lg>
 
@@ -4731,7 +4731,6 @@
     </standOff>
 
 
-
     <standOff corresp="#SS.3.4.89cd" type="Emendation">
         <note target="#SS.3.4.89cd-n1" xml:lang="en">Witness H reads <foreign
                 xml:lang="sa">āyāsabakulam</foreign> which we take as a mistranscription
@@ -4749,6 +4748,24 @@
             spite of lectio dificilior.</note>
     </standOff>
 
+    <standOff corresp="#SS.3.4.96" type="Note">
+        <note  target="#SS.3.4.96-n2">The reading <foreign>toyakāmatā</foreign> is close to the 
+            <foreign>toyakāmam</foreign> of Carakasaṃhitā  4.5.39(2) (p.324)
+            while the vugtate's <foreign>salilārthitā</foreign> is departs from both.</note>
+    </standOff>
+    
+    <standOff corresp="#SS.3.4.96" type="Emendation">
+        <note target="#SS.3.4.96-n1" xml:lang="en">We read with the vulgate against witness H's <foreign xml:lang="sa">sarvvātmaka</foreign> for sense and because of the
+            parallel sentence structure in the surrounding context. Also,
+        <foreign xml:lang="ne">rva</foreign> and <foreign xml:lang="ne">tva</foreign> may have been confused by the scribe of H or his exemplar.</note>
+      </standOff>
+    
+    <standOff corresp="#SS.3.4.97" type="Note">
+        <note  target="#SS.3.4.97-n1">The reading 
+            <foreign>sarvabuddhyaṅga</foreign> of Carakasaṃhitā  4.5.39(2) (p.324) is preferred
+            to the reading of H, <foreign>sattvabudhāṅga</foreign>.</note>
+    </standOff>
+    
 
     <standOff corresp="#SS.3.5.18" type="Testimonia">
         <note target="#SS.3.5.18-n1" xml:lang="en">See Hoernle's edition and discussion of
