@@ -4751,13 +4751,17 @@
     <standOff corresp="#SS.3.4.96" type="Note">
         <note  target="#SS.3.4.96-n2">The reading <foreign>toyakāmatā</foreign> is close to the 
             <foreign>toyakāmam</foreign> of Carakasaṃhitā  4.5.39(2) (p.324)
-            while the vugtate's <foreign>salilārthitā</foreign> is departs from both.</note>
+            while the vulgate's <foreign>salilārthitā</foreign> is departs from both.</note>
     </standOff>
     
     <standOff corresp="#SS.3.4.96" type="Emendation">
         <note target="#SS.3.4.96-n1" xml:lang="en">We read with the vulgate against witness H's <foreign xml:lang="sa">sarvvātmaka</foreign> for sense and because of the
             parallel sentence structure in the surrounding context. Also,
-        <foreign xml:lang="ne">rva</foreign> and <foreign xml:lang="ne">tva</foreign> may have been confused by the scribe of H or his exemplar.</note>
+            <foreign xml:lang="sa">𑐬𑑂𑐰</foreign> 
+            and 
+            <foreign xml:lang="sa"> 𑐟𑑂𑐰 </foreign>
+            are similar in early Nepalese orthography and 
+                may have been confused by the scribe of H or his exemplar.</note>
       </standOff>
     
     <standOff corresp="#SS.3.4.97" type="Note">
