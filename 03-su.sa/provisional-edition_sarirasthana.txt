@@ -2168,11 +2168,11 @@
                     </lg>
 
                     <lg xml:id="SS.3.5.3">
-                        <l> śukraśoṇitaṅ garbhāśayastham ātmaprakṛtivikārasammūrcchitaṃ  garbha ity
-                            ucyate || tad acetanāvasthitam vāyur vvibhajate teja enam pacati | āpaḥ
-                            kledayati | pṛthivī saṃhanti | ākāśam vivarddhayati | evam vivarddhitaḥ
+                        <l> śukraśoṇitaṅ garbhāśayastham ātmaprakṛtivikārasammūrcchitaṃ garbha ity
+                            ucyate | tam acetanāvasthitam vāyur vvibhajate | teja enam pacati | āpaḥ
+                            kledayanti | pṛthivī saṃhanti | ākāśam vivarddhayati | evam vivarddhitaḥ
                             sa yadā hastapādajihvāghrāṇavadanakarṇṇādibhir upetas tadā śarīram iti
-                            saṃjñāṃ labhate | tac ca ṣaḍ aṅgaṃ śākhāś catvāraḥ | madhyaṃ ṣaṣṭhaṃ
+                            saṃjñāṃ labhate | tac ca ṣaḍaṅgaṃ śākhāś catvāraḥ | madhyaṃ pañcamaṃ ṣaṣṭhaṃ
                             śira iti || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.3]</trailer>
                     </lg>
