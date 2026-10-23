@@ -7727,7 +7727,7 @@
             replace one of the terms in this line, but it is unclear which.</note>
     </standOff>
     <standOff corresp="#SS.4.5.18" type="Emendation">
-        <note xml:lang="en" target="#SS.4.5.18-n1">We emend minimally from <foreign xml:lang="sa">kvāthya</foreign> for sense.</note>
+        <note xml:lang="en" target="#SS.4.5.18-n1">We emend to <foreign xml:lang="sa">kvātham</foreign> as a minimal change that makes sense.   The passage remains problematic.</note>
     </standOff>
     <standOff corresp="#SS.4.9.12" type="Testimonia">
         <note xml:lang="en" target="#SS.4.9.12-n1">Aṣṭāṅgahṛdaya Ci.19.85: <foreign>lākṣā

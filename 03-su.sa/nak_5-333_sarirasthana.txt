@@ -1,3 +1,4 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
@@ -1618,14 +1619,13 @@ C) Special notes :
 
                     <lg xml:id="SS.3.5.4">
                         <l>
-                            <lb n="5"/> ataḥ param pratyaṅgāni vakṣyante |
+                            <lb n="5"/> a<subst><del>tra</del><add>ta</add></subst>ḥ param pratyaṅgāni vakṣyante |
                                 mastakodarapṛṣṭhanābhilalāṭa<g ref="#newa-gap-filler"
-                            /><cb/>nāsācivukagrīvā ity ete ekaikāḥ || karṇṇanetrabhrū vā ca
-                                sagaṇḍakakṣastanavaṃkṣyaṇavṛṣaṇapārśvasphik<g ref="#newa-gap-filler"
+                            /><cb/>nāsācivukagrīvā ity ete ekaikāḥ || karṇṇanetrabhrūvāṃcasagaṇḍakakṣastanavaṃkṣaṇavṛṣaṇapārśvasphik<g ref="#newa-gap-filler"
                                 /><lb n="6"/>jānukurpparavāhuprabhṛtayo dve dve viṃśatir aṅgulyaḥ
                             srotānsi vakṣyante ||
                             <caesura/>
-                             ity etat pratyaṅgavibhāgam uktaṃ tvayābhihitāḥ kalā dhātavo maladharoś
+                             ity etat pratyaṅgavibhāgam uktaṃ tvaco bhihitāḥ kalā dhātavo maladharāś
                             ca || </l>
                     </lg>
 

@@ -2180,11 +2180,10 @@
                     <lg xml:id="SS.3.5.4">
                         <l> ataḥ param pratyaṅgāni vakṣyante |
                             mastakodarapṛṣṭhanābhilalāṭanāsācivukagrīvā ity ete ekaikāḥ ||
-                            karṇṇanetrabhrū vā ca
-                            sagaṇḍakakṣastanavaṃkṣyaṇavṛṣaṇapārśvasphikjānukurpparavāhuprabhṛtayo
-                            dve dve viṃśatir aṅgulyaḥ srotānsi vakṣyante ||
+                            karṇṇanetrabhrūśaṅkhāṃsagaṇḍakakṣastanavaṃkṣaṇavṛṣaṇapārśvasphikjānukūrpparavāhuprabhṛtayo 
+                            dve dve | viṃśatir aṅgulyaḥ srotānsi vakṣyante ||<anchor xml:id="SS.3.5.4-n1"/>
                             <caesura/>
-                             ity etat pratyaṅgavibhāgam uktaṃ tvacābhihitāḥ kalā dhātavo maladharoś
+                             ity etat pratyaṅgavibhāgam uktaṃ  |<anchor xml:id="SS.3.5.4-n2"/> tvaco 'bhihitāḥ kalā dhātavo maladharāś
                             ca || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.4]</trailer>
                     </lg>
@@ -4595,6 +4594,13 @@
             the vulgate by Ḍalhaṇa.</note>
     </standOff>
 
+ 
+    <standOff corresp="#SS.3.5.4" type="Emendation">
+        <note xml:lang="en" target="#SS.3.5.4-n1">We emend witness H's <foreign xml:lang="sa">vāṃcasa</foreign> to the vulgate's reading, in the absence of a good idea about what H's reading could be.</note>
+    </standOff>  
+     <standOff corresp="#SS.3.5.4" type="Note">
+        <note xml:lang="en" target="#SS.3.5.4-n2">One would expect masculine <foreign xml:lang="sa">vibhāgaḥ</foreign> rather than the neuter.</note>
+    </standOff>
     <standOff corresp="#SS.3.5.18" type="Testimonia">
         <note target="#SS.3.5.18-n1" xml:lang="en">See Hoernle's edition and discussion of this
             passage (Hoernle 1907: 218--219).</note>
