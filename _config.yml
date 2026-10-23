@@ -1,5 +1,28 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: The Compendium of Suśruta According to the Nepalese Manuscripts
 description: A critical edition of the Nepalese version of the Suśrutasaṃhitā
+url: https://sushrutaproject1.github.io
+baseurl: /Sushrutasamhita_Saktumiva1
+lang: en
+
+# Shown beside the logo in the menu bar, and above the title on the home page
+brand_label: Edition
+brand_sub: Saktumiva 1.0
+hero_kicker: Presented through Saktumiva 1.0
+
+# The menu bar. Addresses starting with / are pages of this site.
+menu:
+  - title: Contents
+    url: /
+  - title: Saktumiva 2.0 version
+    url: https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/
+  - title: Draft translation
+    url: https://github.com/sushrutaproject1/Sushrutasamhita_Saktumiva1/raw/main/translation/incremental_SS_Translation.pdf?raw=true
+  - title: Instructions for readers
+    url: https://saktumiva.org/wiki/users
+
+plugins:
+  - jekyll-seo-tag
+
+# The old Slate theme is no longer used; the design lives in
+# _layouts/, _includes/ and assets/css/style.scss.
+# remote_theme: pages-themes/slate@v0.2.0

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{%- comment -%}
+  Used automatically for the home page (README.md).
+{%- endcomment -%}
+<section class="hero hero-compact">
+  <div class="wrap hero-inner">
+    <p class="hero-devanagari" lang="sa">सुश्रुतसंहिता</p>
+    <p class="kicker">{{ site.hero_kicker }}</p>
+    <h1>{{ site.title }}</h1>
+    <p class="lede">{{ site.description }}</p>
+  </div>
+</section>
+
+<article class="wrap article-wrap">
+  <div class="sheet prose">
+    {{ content }}
+  </div>
+</article>

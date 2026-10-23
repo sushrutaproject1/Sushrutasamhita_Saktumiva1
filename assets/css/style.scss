@@ -1,12 +1,163 @@
 ---
 ---
+/* ------------------------------------------------------------------
+   The Suśruta Project — "Modern Portal" design (edition sites)
+   Same colours and fonts as sushrutaproject.github.io.
+   ------------------------------------------------------------------ */
+:root {
+  --navy:      #1E2A44;   /* header and hero */
+  --navy-deep: #141D30;   /* thin top strip */
+  --saffron:   #E0A43A;   /* accent on navy */
+  --saffron-lt:#F0C77A;   /* links on navy */
+  --ink:       #16202E;   /* body text */
+  --muted:     #435064;   /* secondary text */
+  --link:      #1E4E8C;
+  --link-hover:#133563;
+  --paper:     #F6F7F9;   /* page background */
+  --card:      #FFFFFF;
+  --rule:      #DCE2EA;
+  --tint:      #EEF1F5;
 
-@import "{{ site.theme }}";
-#header_wrap {
-  background: #e39f00;
-  background: -moz-linear-gradient(top, #e39f00, #e39f00);
+  --serif: 'Spectral', Georgia, serif;
+  --sans:  'IBM Plex Sans', system-ui, sans-serif;
+  --deva:  'Noto Serif Devanagari', 'Spectral', serif;
 }
 
-#footer_wrap {
-  background: #e39f00;
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--sans); font-size: 17px; line-height: 1.6;
+}
+img { max-width: 100%; height: auto; }
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
+h1, h2, h3, h4 { font-family: var(--serif); font-weight: 500; line-height: 1.2; }
+[lang="sa"] { font-family: var(--deva); }
+.wrap { max-width: 1160px; margin: 0 auto; padding-left: 24px; padding-right: 24px; }
+
+/* ---------- Thin strip linking the three websites ---------- */
+.umbrella { background: var(--navy-deep); font-size: 13.5px; }
+.umbrella-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 16px; min-height: 36px; }
+.umbrella a { color: #C9D2E0; text-decoration: none; }
+.umbrella a:hover { color: #fff; }
+.umbrella-home { font-weight: 500; }
+.umbrella-home span { color: var(--saffron); margin-right: 4px; }
+.umbrella ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0 18px; }
+.umbrella ul a { display: block; padding: 8px 0; }
+.umbrella a[aria-current] { color: var(--saffron-lt); font-weight: 600; }
+
+/* ---------- Project menu ---------- */
+.site-header { background: var(--navy); color: #fff; }
+.nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding-top: 14px; padding-bottom: 14px; }
+.brand { display: flex; align-items: center; gap: 12px; color: #fff; text-decoration: none; }
+.brand:hover { color: #fff; }
+.brand-mark {
+  width: 40px; height: 40px; border-radius: 50%; flex: none;
+  background: var(--saffron); color: var(--navy);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 20px; font-weight: 500; line-height: 1; padding-bottom: 2px;
+}
+.brand-text { display: flex; flex-direction: column; line-height: 1.15; }
+.brand-name { font-family: var(--serif); font-size: 21px; font-weight: 500; }
+.brand-dates { font-size: 12.5px; color: #C9D2E0; }
+.nav-links { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 2px; }
+.nav-links a { display: block; padding: 10px 12px; border-radius: 6px; color: #fff; text-decoration: none; font-size: 15px; font-weight: 500; }
+.nav-links a:hover { background: rgba(255,255,255,0.12); color: #fff; }
+.nav-links a[aria-current="page"] { background: var(--saffron); color: var(--navy); }
+
+/* ---------- Home hero ---------- */
+.hero { background: var(--navy); color: #fff; }
+.hero-inner { padding-top: 48px; padding-bottom: 128px; text-align: center; }
+.hero-devanagari { margin: 0 0 6px; font-size: 40px; line-height: 1.5; color: var(--saffron); }
+.kicker { margin: 0 0 14px; font-size: 14px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--saffron-lt); }
+.hero h1 { margin: 0 auto; font-size: clamp(30px, 4.4vw, 48px); line-height: 1.15; max-width: 20em; }
+
+/* Home page of the edition sites (no cards under the hero) */
+.hero-compact .hero-inner { padding-bottom: 104px; }
+.lede { margin: 18px auto 0; font-size: 19px; color: #D3D9E4; max-width: 38em; }
+
+/* ---------- Home cards ---------- */
+.cards { margin-top: -80px; display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 22px; }
+.card {
+  background: var(--card); border-radius: 10px; padding: 28px 30px;
+  box-shadow: 0 8px 24px rgba(22,32,46,0.10);
+  display: flex; flex-direction: column; gap: 10px;
+  color: var(--ink); text-decoration: none;
+}
+.card:hover { color: var(--ink); box-shadow: 0 10px 28px rgba(22,32,46,0.16); }
+.card-title { font-family: var(--serif); font-size: 25px; }
+.card-text { color: var(--muted); flex-grow: 1; }
+.card .more { font-weight: 600; font-size: 15px; color: var(--link); }
+.card-dark { background: var(--navy); color: #fff; }
+.card-dark:hover { color: #fff; }
+.card-dark .card-text { color: #D3D9E4; }
+.card-dark .more { color: var(--saffron-lt); }
+.card-dark .icon { stroke: var(--saffron); }
+.icon { width: 30px; height: 30px; fill: none; stroke: var(--link); stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+
+/* ---------- Inner pages ---------- */
+.page-hero { background: var(--navy); color: #fff; }
+.page-hero .wrap { padding-top: 40px; padding-bottom: 96px; }
+.page-hero .kicker { margin-bottom: 8px; }
+.page-hero h1 { margin: 0; font-size: clamp(32px, 5vw, 50px); }
+
+.sheet {
+  background: var(--card); border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(22,32,46,0.08);
+  margin: -64px 0 80px; padding: 48px 56px;
+}
+.sheet-home { margin-top: 48px; }
+
+/* ---------- Text inside pages ---------- */
+.article-wrap { max-width: 960px; }   /* comfortable reading width */
+.prose { overflow-wrap: break-word; }
+.prose h1 { font-size: 34px; margin: 1.6em 0 0.5em; }
+.prose h2 { font-size: 29px; margin: 1.6em 0 0.5em; padding-bottom: 6px; border-bottom: 1px solid var(--rule); }
+.prose h3 { font-size: 23px; margin: 1.5em 0 0.4em; }
+.prose h4 { font-size: 19px; margin: 1.4em 0 0.4em; }
+.prose > :first-child { margin-top: 0; }
+.prose p, .prose ul, .prose ol { margin: 0 0 1em; }
+.prose li { margin: 0.2em 0; }
+.prose blockquote { margin: 1.2em 0; padding: 0.2em 1.2em; background: var(--tint); border-radius: 6px; color: var(--muted); }
+.prose hr { border: 0; border-top: 1px solid var(--rule); margin: 2em 0; }
+.prose img { border-radius: 4px; }
+.prose code { font-size: 0.9em; background: var(--tint); padding: 1px 5px; border-radius: 4px; }
+.prose pre { background: var(--tint); padding: 14px 16px; border-radius: 6px; overflow-x: auto; }
+.prose pre code { background: none; padding: 0; }
+.prose table { display: block; overflow-x: auto; border-collapse: collapse; margin: 0 0 1.4em; font-size: 15.5px; }
+.prose th, .prose td { border: 1px solid var(--rule); padding: 7px 11px; text-align: left; vertical-align: top; }
+.prose th { background: var(--tint); font-weight: 600; }
+.prose th:empty { padding: 0; border: 0; background: none; }   /* tables with a blank header row */
+
+/* Kramdown's automatic table of contents ({:toc}) */
+.prose #markdown-toc {
+  background: var(--paper); border: 1px solid var(--rule); border-radius: 8px;
+  padding: 18px 22px 14px 40px; margin: 0 0 2em; font-size: 15.5px;
+}
+.prose #markdown-toc::before {
+  content: "Contents"; display: block; margin: 0 0 8px -18px;
+  font-family: var(--serif); font-size: 20px; color: var(--ink);
+}
+.prose #markdown-toc ul { margin: 0.2em 0; padding-left: 1.2em; }
+.prose #markdown-toc li { margin: 0.15em 0; }
+
+/* ---------- Footer ---------- */
+.site-footer { background: #fff; border-top: 1px solid var(--rule); color: var(--muted); font-size: 14px; }
+.footer-grid { display: flex; flex-wrap: wrap; gap: 24px 48px; padding-top: 36px; padding-bottom: 36px; }
+.footer-grid > div { flex: 1 1 340px; min-width: 0; }
+.footer-grid p { margin: 0; }
+.footer-label { font-weight: 600; color: var(--ink); margin-bottom: 6px !important; }
+
+/* ---------- Phones ---------- */
+@media (max-width: 720px) {
+  .umbrella-inner { justify-content: center; }
+  .nav { justify-content: center; }
+  .nav-links { justify-content: center; }
+  .nav-links a { padding: 9px 10px; font-size: 14.5px; }
+  .hero-inner { padding-top: 28px; }
+  .hero-devanagari { font-size: 32px; }
+  .sheet { padding: 28px 20px; margin-left: -8px; margin-right: -8px; }
+  .prose h2 { font-size: 25px; }
+  .prose img[style*="float"] { float: none !important; display: block; margin: 0 0 1em !important; }
 }

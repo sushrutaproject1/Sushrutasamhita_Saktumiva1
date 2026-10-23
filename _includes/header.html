@@ -1,0 +1,28 @@
+{% assign site_root = '/' | absolute_url %}
+<header class="site-header">
+  <div class="umbrella">
+    <nav class="wrap umbrella-inner" aria-label="Suśruta Project websites">
+      <a class="umbrella-home" href="{{ site.data.navigation[0].url }}"><span lang="sa">सुश्रुत</span> The Suśruta Project</a>
+      <ul>
+        {% for item in site.data.navigation %}{% if item.umbrella %}
+        <li><a href="{{ item.url }}"{% if item.url == site_root %} aria-current="true"{% endif %}>{{ item.title }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+    </nav>
+  </div>
+  <nav class="nav wrap" aria-label="{{ site.brand_label }}">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" lang="sa" aria-hidden="true">सु</span>
+      <span class="brand-text">
+        <span class="brand-name">{{ site.brand_label }}</span>
+        <span class="brand-dates">{{ site.brand_sub }}</span>
+      </span>
+    </a>
+    <ul class="nav-links">
+      {% for item in site.menu %}
+        {% if item.url contains '://' %}{% assign href = item.url %}{% else %}{% assign href = item.url | relative_url %}{% endif %}
+        <li><a href="{{ href }}"{% if item.url == page.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

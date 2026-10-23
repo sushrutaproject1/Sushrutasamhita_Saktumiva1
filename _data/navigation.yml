@@ -1,0 +1,27 @@
+# The shared menu for the three Suśruta Project websites.
+# Keep this file identical in sushrutaproject, sushrutaproject1 and sushrutaproject2.
+#
+#   umbrella: true  -> also shown in the thin top strip on the Project 1 and
+#                      Project 2 sites (the main site shows every item anyway).
+
+- title: Home
+  url: https://sushrutaproject.github.io/
+
+- title: Translation
+  url: https://github.com/sushrutaproject1/Sushrutasamhita_Saktumiva1/raw/main/translation/incremental_SS_Translation.pdf?raw=true
+  umbrella: true
+
+- title: Edition
+  url: https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/
+  umbrella: true
+
+- title: Project 1
+  url: https://sushrutaproject1.github.io/
+  umbrella: true
+
+- title: Project 2
+  url: https://sushrutaproject2.github.io/
+  umbrella: true
+
+- title: Blog
+  url: https://sushrutaproject2.github.io/blog/
