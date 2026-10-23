@@ -1,5 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="../tei-to-html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
+<?xml-stylesheet type="text/xsl" href="../tei-to-html.xsl"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
         <fileDesc>
             <titleStmt>
                 <title>Transcription of MS Kathmandu KL 699: Nidānasthāna</title>
@@ -15,14 +17,12 @@
                             <region>[region]</region>
                             <country>Nepal</country>
                         </placeName>
-                        <institution>Kaiser Library</institution>
-                        <repository>https://www.klib.gov.np/</repository>
-                        <collection>[collection]</collection>
+                        <institution>Kaiser Library<ptr target="https://www.klib.gov.np/"/></institution>
                         <idno>699</idno>
                         <idno type="siglum">K</idno>
                     </msIdentifier>
                     <msContents>
-                        <summary>[description of manuscript]</summary>
+                        <summary>A palm-leaf manuscript written in old Nepalese script.</summary>
                         <msItem defective="true" n="1">
                             <!-- @defective: 'false' for complete, 'true' for incomplete -->
                             <author role="author" xml:lang="sa">Suśruta</author>
@@ -47,6 +47,9 @@
                             <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa">śa</foreign>
                                 and <foreign xml:lang="sa">sa</foreign> not
                                 distinguished.</scriptNote>
+                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba">ba</foreign>
+                                and <foreign xml:lang="va">va</foreign> not
+                                distinguished.</scriptNote>
                             <scriptNote xml:id="svarna-nasals"/>
                             <!-- see 
 				https://github.com/chchch/upama/issues/87#issuecomment-2357860543 -->
@@ -67,7 +70,7 @@
             </sourceDesc>
         </fileDesc>
 
-        <revisionDesc></revisionDesc>
+        
 
     </teiHeader>
 
