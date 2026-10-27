@@ -2986,7 +2986,7 @@
                     <lg xml:id="SS.6.64.38.add">
                         <l>
                             <caesura/>
-                             vyāyāmo dvyadhikaś cātra sarva eva praśasyate ||44|| </l>
+                             vyāyāmo dvyadhikaś cātra sarva eva praśasyate<anchor xml:id="SS.6.64.38.add-n1"/>   ||44||</l>
                     </lg>
 
                     <lg xml:id="SS.6.64.39cd">
@@ -4388,6 +4388,9 @@
     </standOff>
 
 
+    <standOff corresp="#SS.6.64.38.add" type="Note">
+        <note target="#SS.6.64.38.add-n1" xml:lang="en">We emend the Nepalese witnesses from <foreign xml:lang="sa-Latn">vyadhika</foreign> to <foreign xml:lang="sa-Latn">dvyadhika</foreign> for sense.  The syllable <foreign xml:lang="sa-Latn">dvya</foreign> and <foreign xml:lang="sa-Latn">vya</foreign> are easily confused.  See also Monier Williams' p. 1031, sub <foreign xml:lang="sa-Latn">vyadhika/hyadhika</foreign>.</note>
+    </standOff>
     <standOff corresp="#SS.6.64.39.add2" type="Testimonia">
         <note xml:lang="en" target="#SS.6.64.39.add2-n1">The reading of K
                 <foreign>°jaṃghanāṃ</foreign>, which is unmetrical, has been emended to
