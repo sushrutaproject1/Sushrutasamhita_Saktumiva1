@@ -1325,10 +1325,8 @@
 
                     <lg xml:id="SS.1.37.28"><l/></lg>
 
-                    <lg xml:id="SS.1.37.29"><l met="hyper metrical">
-                        
-                        
-                         tvakṣu nyagrodhavarggasya triphalās tathaiva ca ||
+                    <lg xml:id="SS.1.37.29"><l met="hypermetrical">
+                       tvakṣu nyagrodhavarggasya triphalās tathaiva ca ||
                         <caesura/>
                          rasakriyāṃ ropaṇārthe vidadhīta yathākramaṃ |<anchor xml:id="SS.1.37.29-n1"/></l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.37.29 hyper metrical]</trailer>
@@ -4180,9 +4178,7 @@
                     <p ana="subheading" style="bold">[<hi>Dadhivarga</hi>]</p>
 
                     <lg xml:id="SS.1.45.65"><l>
-                        
-                        
-                         dadhi tu sṛṣtamūtrapurīṣaṃ gurūm śleṣmabhiṣyandi
+                        dadhi tu sṛṣtamūtrapurīṣaṃ gurūm śleṣmabhiṣyandi
                         śleṣmapittaśophavarddhanaṃ kārśyāpahaṃ rocanam maṅgalyañ ca || </l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.45.65]</trailer>
 </lg>
@@ -4191,9 +4187,9 @@
                         
                         
                          tad uta sāraṃ grāhyam anabhiṣyandi ca | saraḥ kaphamedaśukrakṛt
-                        tridoṣam mandajātaṃ ||<anchor xml:id="SS.1.45.65.1-n1"/>
+                        tridoṣam mandajātaṃ ||<anchor xml:id="SS.1.45.65.add1-n1"/>
                     </l>
-<trailer xml:lang="en">[1.45.65.1]</trailer>
+<trailer xml:lang="en">[1.45.65.add1]</trailer>
 </lg>
                     
 
@@ -7572,7 +7568,7 @@
                         
                          vibhedi gururūkṣañ ca prāyo viṣṭambhi śītalaṃ |
                         <caesura/>
-                         sakaṣāyañ ca sarvvaṃ hi svādu śākam udāhṛtaṃ ||<anchor xml:id="SS.1.46.296abcd-n1"/></l>
+                         sakaṣāyañ ca sarvvaṃ hi svādu śākam udāhṛtaṃ ||<anchor xml:id="SS.1.46.296abcd-n1"/> </l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.46.296abcd]</trailer>
 </lg>
                     
@@ -9638,7 +9634,7 @@
         </body>
     </text>
 <standOff corresp="#SS.1.37.29" type="Notes">
-<note xml:lang="en" target="#SS.1.37.30-n1">Hypermetrical.</note>
+<note xml:lang="en" target="#SS.1.37.29-n1">Hypermetrical.</note>
 </standOff>
 <standOff corresp="#SS.1.39.11.add2" type="Notes">
 <note xml:lang="en" target="#SS.1.39.11.add2-n1">1.39.11.2cd
@@ -9662,8 +9658,8 @@
                                 next passage are found in the <title>Agnipurāṇa</title>
                                 279.014cd (Mitra 1870: v.3, p.35).</note>
 </standOff>
-<standOff corresp="#SS.1.45.65.1" type="Notes">
-<note xml:lang="en" target="#SS.1.45.65.1-n1">The <foreign xml:lang="sa">dadhivarga</foreign> (vulgate verses
+<standOff corresp="#SS.1.45.65.add1" type="Notes">
+<note xml:lang="en" target="#SS.1.45.65.add1-n1">The <foreign xml:lang="sa">dadhivarga</foreign> (vulgate verses
                                 66-83) is not present in the Nepalese version.</note>
 </standOff>
 <standOff corresp="#SS.1.45.84" type="Notes">

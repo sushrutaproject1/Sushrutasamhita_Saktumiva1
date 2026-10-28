@@ -1521,7 +1521,7 @@
                             upalepitvāc ca śleṣmaṇas sañcayam āpādayanti | sa saṃcayo vasante
                                 'rka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ śleṣmikān vyādhīn
                             janayati | tā evauṣadhyau grīṣme niḥsārā rūkṣā atimātralaghvyo bhavanty
-                            āpaś ca tā upayujyamānāḥ<anchor xml:id="SS.1.6.11.1-n1"/>
+                            āpaś ca tā upayujyamānāḥ<anchor xml:id="SS.1.6.11-n1"/>
                             sūryapratāpopaśoṣitadehānān dehināṃ raukṣyāl lāghavāc ca vāyoḥ sañcayam
                             āpādayanti | sa sañcayaḥ prāvṛṣi cātyarthañ jalopaklinnāyāṃ bhūmau
                             cātiklinnadehānāṃ dehināṃ śītavātavarṣerito vātikān vyādhīñ janayati |
