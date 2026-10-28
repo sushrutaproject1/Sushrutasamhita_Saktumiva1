@@ -969,25 +969,6 @@
                         <trailer xml:lang="en">[6.38.4.add]</trailer>
                     </lg>
 
-                    <ab corresp="#SS.6.38.4.add" type="apparatus">
-                        <list type="Testimonia">
-                            <note xml:lang="en">The following are testimonia to the
-                                vulgate verses below missing in the Nepalese
-                                transmission.</note>
-                            <item xml:lang="en" corresp="#SS.6.38.4.1.add-n1">
-                                <emph>Carakasaṃhitā</emph> 6.30.7ab--8cd:
-                                    <foreign>viṃśatir vyāpado yoner nirdiṣṭā rogasaṅgrahe
-                                    || mithyācāreṇa tāḥ strīṇāṃ praduṣṭenārtavena ca |
-                                    jāyante bījadoṣāc ca daivāc ca śṛṇu tāḥ pṛthak
-                                    ||</foreign>
-                            </item>
-                            <item xml:lang="en" corresp="#SS.6.38.4.1.add-n1">
-                                <emph>Mādhavanidāna</emph> 62.1-2ab: <foreign>viṃśatir
-                                    vyāpado yonau nirdiṣṭā rogasaṅgrahe | mithyācāreṇa tāḥ
-                                    strīṇāṃ praduṣṭenārtavena ca || jāyante bījadoṣāc ca
-                                    daivāc ca śṛṇu tāḥ pṛthak </foreign>| </item>
-                        </list>
-                    </ab>
 
                     <lg xml:id="SS.6.38.5">
                         <l/>
@@ -3675,7 +3656,7 @@
                     <lg xml:id="SS.6.65.9">
                         <l> yena vākyaṃ yujyate sa yogaḥ | yathā vyatyāsenoktānāṃ
                             sannikṛṣṭaviprakṛṣṭānāṃ padārthānām ekīkaraṇam ||<anchor
-                                n="#SS.6.65.9-n1"/>
+                                xml:id="SS.6.65.9-n1"/>
                             <caesura/>
                              tailaṃ pibec cāmṛtavalli<pc> </pc><app>
                                 <lem>nimba</lem>
@@ -4543,4 +4524,21 @@
             we read the ablative <foreign>-harṣacandrān</foreign>, it solves the problem
             of <foreign>-nn-</foreign> but is also hard to construe.</note>
     </standOff>
+<standOff corresp="#SS.6.38.4.add" type="Testimonia">
+<note xml:lang="en">The following are testimonia to the
+                                vulgate verses below missing in the Nepalese
+                                transmission.</note>
+<note xml:lang="en" target="#SS.6.38.4.1.add-n1">
+                                <emph>Carakasaṃhitā</emph> 6.30.7ab--8cd:
+                                    <foreign>viṃśatir vyāpado yoner nirdiṣṭā rogasaṅgrahe
+                                    || mithyācāreṇa tāḥ strīṇāṃ praduṣṭenārtavena ca |
+                                    jāyante bījadoṣāc ca daivāc ca śṛṇu tāḥ pṛthak
+                                    ||</foreign>
+                            </note>
+<note xml:lang="en" target="#SS.6.38.4.1.add-n1">
+                                <emph>Mādhavanidāna</emph> 62.1-2ab: <foreign>viṃśatir
+                                    vyāpado yonau nirdiṣṭā rogasaṅgrahe | mithyācāreṇa tāḥ
+                                    strīṇāṃ praduṣṭenārtavena ca || jāyante bījadoṣāc ca
+                                    daivāc ca śṛṇu tāḥ pṛthak </foreign>| </note>
+</standOff>
 </TEI>

@@ -139,17 +139,8 @@ target="http://sushrutaproject.github.io"
                         <caesura/>
                          tiryaggo dviguṇaś caiva rajo<pc> </pc>bahula eva ca |
                         <caesura/>
-                         acintyavīryo doṣāṇāṃ netā rogasamūharāṭ<anchor n="SS.2.1.8-n1"/>
+                         acintyavīryo doṣāṇāṃ netā rogasamūharāṭ<anchor xml:id="SS.2.1.8-n1"/>
                         ||</l>
-                    <ab corresp="#SS.2.1.8" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.1.8-n1">The final
-                                    <foreign>ṭ</foreign> of <foreign>-rāṭ</foreign> has no
-                                virāma sign in witness N, but the character is written
-                                slightly smaller, which may echo a usage from Brāhmī where
-                                small size indicates virāma.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.1.9">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.9</label>
@@ -166,18 +157,7 @@ target="http://sushrutaproject.github.io"
                          indriyārthopasampattir doṣadhātvagni<pc> </pc>sāmyatāṃ |
                         <caesura/>
                          kriyāṇām ānulomyañ ca kuryād vāyur adūṣitaḥ ||<anchor
-                            n="SS.2.1.10-n1"/></l>
-                    <ab corresp="#SS.2.1.10" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.1.10-n1">The 1938 vulgate,
-                                p. 259, gives two versions of this verse, noting that the
-                                second - which is collated here - is the reading accepted
-                                by Gayadāsa. The first reads <foreign>doṣadhātvagnisamatāṃ
-                                    saṃprāptiṃ viṣayeṣu ca | kriyāṇām ānulomyaṃ ca karoty
-                                    akupito 'nilaḥ ||</foreign>
-                            </item>
-                        </list>
-                    </ab>
+                            xml:id="SS.2.1.10-n1"/></l>
 
                     <l xml:id="SS.2.1.11">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.11</label>
@@ -189,18 +169,10 @@ target="http://sushrutaproject.github.io"
                     <l xml:id="SS.2.1.12">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.12</label>
                         <caesura/>
-                         prāṇodānaḥ<anchor n="SS.2.1.12-n1"/> samānaś ca vyāno 'pānas
+                         prāṇodānaḥ<anchor xml:id="SS.2.1.12-n1"/> samānaś ca vyāno 'pānas
                         tathaiva ca |
                         <caesura/>
                          sthānasthā mārutāḥ pañca yāpayanti śarīriṇam ||</l>
-                    <ab corresp="#SS.2.1.12" type="apparatus">
-                        <list type="notes">
-                            <item xml:lang="en" corresp="#SS.2.1.12-n1">The words
-                                    <foreign>prāṇaḥ</foreign> and
-                                    <foreign>udānaḥ</foreign> have undergone double
-                                sandhi. See Oberlies 2003: para 1.8.4</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.1.13">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.13</label>
@@ -254,16 +226,10 @@ target="http://sushrutaproject.github.io"
                     <l xml:id="SS.2.1.19">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.19</label>
                         <caesura/>
-                         pakvādhānālayo 'pānaḥ kāle karṣati<anchor n="SS.2.1.19-n1"/> cāpy
+                         pakvādhānālayo 'pānaḥ kāle karṣati<anchor xml:id="SS.2.1.19-n1"/> cāpy
                         adhaḥ |
                         <caesura/>
                          vātamūtrapurīṣāṇi śukragarbhārttavāni ca ||</l>
-                    <ab corresp="#SS.2.1.19" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.1.19-n1">A folio of witness
-                                N has been photographed out of order at this point.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.1.20">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.20</label>
@@ -356,29 +322,13 @@ target="http://sushrutaproject.github.io"
                         sarvaśaḥ |
                         <caesura/>
                          sthāneṣūkteṣu sammiśraḥ sammiśrāḥ kurute rujāḥ ||<anchor
-                            n="SS.2.1.31-n1"/></l>
-                    <ab corresp="#SS.2.1.31" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.1.31-n1">Gayadāsa noted the
-                                same reading for this half-śloka as the Nepalese
-                                version.</item>
-                        </list>
-                    </ab>
+                            xml:id="SS.2.1.31-n1"/></l>
 
                     <l xml:id="SS.2.1.32ab">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.32ab</label>
                         <caesura/>
                          kuryād avayavasthaś ca mātariśvā gadān bahūn |<anchor
-                            n="SS.2.1.32-n1"/></l>
-                    <ab corresp="#SS.2.1.32ab" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.1.32-n1">Gayadāsa noted the
-                                same reading for this half-śloka as the Nepalese
-                                version.</item>
-                            <item>Verses 32cd and 33ab of the vulgate appear later in this
-                                chapter, after SS.2.1.62 of the Nepalese version.</item>
-                        </list>
-                    </ab>
+                            xml:id="SS.2.1.32-n1"/></l>
 
 
                     <l xml:id="SS.2.1.33cd"/>
@@ -432,17 +382,7 @@ target="http://sushrutaproject.github.io"
                          prāyaśaḥ sukumārāṇāṃ mithyāhāravihāriṇāṃ ||
                         <caesura/>
                          doṣādhva<pc> </pc>madyapramadā<pc> </pc>vyāyāmaiś ca prapīḍanāt
-                            ||<anchor n="SS.2.1.40-n1"/></l>
-                    <ab corresp="#SS.2.1.40" type="apparatus">
-                        <list type="Emendation">
-                            <item xml:lang="en" corresp="#SS.2.1.40-n1">We emend to the
-                                ablative <foreign>prapīḍanāt</foreign>, similar to the
-                                vulgate, on the analogy of <foreign>paryāsād</foreign> and
-                                    <foreign>bhojanāt</foreign>. The acc. pl. of H is
-                                strained as an object of
-                                <foreign>prakupyati</foreign>.</item>
-                        </list>
-                    </ab>
+                            ||<anchor xml:id="SS.2.1.40-n1"/></l>
 
                     <l xml:id="SS.2.1.41">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.41</label>
@@ -504,13 +444,6 @@ target="http://sushrutaproject.github.io"
                         <caesura/>
                          svaṃ svaṃ liṅgam pādayor ddarśayanti ||</l>
 
-                    <ab corresp="#SS.2.1.46" type="apparatus">
-                        <list type="Emendation">
-                            <item xml:lang="en" corresp="#SS.2.1.46-n1">We emend to the
-                                vulgate reading <foreign>sarvair</foreign> against H and
-                                N, for the sake of metre and sense.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.1.47"/>
 
@@ -519,20 +452,8 @@ target="http://sushrutaproject.github.io"
                         <caesura/>
                          pādayor mūlam āsthāya kadācid dhastayor api |
                         <caesura/>
-                         ākhor vviṣam iva kruddhaṃ tad deham<anchor n="SS.2.148"/>
+                         ākhor vviṣam iva kruddhaṃ tad deham<anchor xml:id="SS.2.148"/>
                         anusarppati ||</l>
-                    <ab corresp="#SS.2.1.48" type="apparatus">
-                        <list type="Note">
-                            <item xml:lang="en" corresp="#SS.2.1.48-n1">The commentators
-                                Gayadāsa and Ḍalhaṇa both read <foreign>saddehaṃ</foreign>
-                                for <foreign>tad dehaṃ</foreign>, interpreting it as
-                                    <foreign>sakalaṃ dehaṃ</foreign> (Ācārya 1938: 264).
-                                There is a difficulty in witness N's reading, which lacks
-                                a <foreign>-d</foreign>. Both N and H read a nominative
-                                    <foreign>kruddhas</foreign> which does not parse
-                                sensibly.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.1.49ab">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.49ab</label>
@@ -655,13 +576,6 @@ target="http://sushrutaproject.github.io"
                          sādhyam anyena saṃsṛṣṭam asādhyaṃ kṣayahetukam ||</l>
 
 
-                    <ab corresp="#SS.2.1.63" type="apparatus">
-                        <list type="Emendation">
-                            <item xml:lang="en" corresp="#SS.2.1.63-n1">We read
-                                    <foreign>kṛcchrasādhyatamam</foreign> with the
-                                vulgate, against the Nepalese witnesses, for sense.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.1.64"/>
                     <l xml:id="SS.2.1.65"/>
@@ -796,17 +710,10 @@ target="http://sushrutaproject.github.io"
                         <label xml:lang="en"> cf. 1938 ed. 2.1.84</label>
                         <caesura/>
                          śiro<pc> </pc>grīva<pc> </pc>hanūḥ śaṃkhau yasya bhindann
-                        ivānilaḥ |<anchor n="SS.2.1.84-n1"/>
+                        ivānilaḥ |<anchor xml:id="SS.2.1.84-n1"/>
                         <caesura/>
                          karṇṇayoḥ kurute śūlaṃ karṇṇaśūlaḥ sa ucyate ||</l>
 
-                    <ab corresp="#SS.2.1.84" type="apparatus">
-                        <list type="Emendation">
-                            <item xml:lang="en" corresp="#SS.2.1.84-n1">We emend <foreign
-                                    xml:lang="sa">-hanuḥ</foreign> to the accusative
-                                plural for grammar.</item>
-                        </list>
-                    </ab>
                     <l xml:id="SS.2.1.86">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.86</label>
                         <caesura/>
@@ -842,22 +749,12 @@ target="http://sushrutaproject.github.io"
                         <label xml:lang="en"> cf. 1938 ed. 2.1.90</label>
                         <caesura/>
                          nābher adhastāt saṃjātaḥ saṃcārī yadi vācalaḥ ||<anchor
-                            n="SS.2.1.90-n1"/>
+                            xml:id="SS.2.1.90-n1"/>
                         <caesura/>
                          aṣṭhīlāvad ghanaṃ granthim ūrdhvam āyatam unnataṃ |
                         <caesura/>
                          vātāṣṭhīlām vijānīyād bahirmmārggāvarodhinīm ||</l>
 
-                    <ab corresp="#SS.2.1.90" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.1.90-n1">The first line of
-                                this passage, <foreign xml:lang="sa"
-                                    >nābher...acalaḥ</foreign>, occurs only in witness N.
-                                However, it was mentioned by Gayadāsa and Ḍalhaṇa (Ācārya
-                                1938: 270) as ``the opinion of some'' in their
-                                commentaries on 2.1.90.</item>
-                        </list>
-                    </ab>
                     <l xml:id="SS.2.1.91">
                         <label xml:lang="en"> cf. 1938 ed. 2.1.91</label>
                         <caesura/>
@@ -1240,17 +1137,9 @@ target="http://sushrutaproject.github.io"
                         parisrāviśambūkāvartonmārgiko yathāsaṃkhyaṃ pañca bhagandarā
                         bhavanti | te tu gudabastibhagapradeśadāraṇābhagandarā ity ucyante
                         | abhinnās tu piḍakā bhinnās tu bhagandarāḥ ||<anchor
-                            n="SS.2.4.3-n1"/>
+                            xml:id="SS.2.4.3-n1"/>
                     </l>
 
-                    <ab corresp="#SS.2.4.3" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.4.3-n1">Ḍalhaṇa noted that
-                                Gayadāsa accepted the next passage, 2.4.4, which is in the
-                                vulgate but not in the Nepalese version (Ācārya 1938: 280,
-                                note 3).</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.2.4.4"/>
 
@@ -1593,14 +1482,7 @@ target="http://sushrutaproject.github.io"
                          kuṣṭhañ jvaraś ca śoṣaś ca netrābhiṣyanda eva ca |
                         <caesura/>
                          aupasargikarogāś ca saṃkrāmanti narāt naram ||<anchor
-                            n="SS.2.5.34-n1"/></l>
-                    <ab corresp="#SS.2.5.34" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.2.5.34-n1"><foreign
-                                    xml:lang="la">Sic</foreign> irregular sandhi of
-                                    <foreign xml:lang="sa">narāt</foreign>.</item>
-                        </list>
-                    </ab>
+                            xml:id="SS.2.5.34-n1"/></l>
 
 
                     <l xml:id="SS.2.5.trailer"> iti 5 kuṣṭhanidāne pañcamaḥ | </l>
@@ -4178,4 +4060,94 @@ target="http://sushrutaproject.github.io"
             </div>
         </body>
     </text>
+<standOff corresp="#SS.2.1.8" type="Notes">
+<note xml:lang="en" target="#SS.2.1.8-n1">The final
+                                    <foreign>ṭ</foreign> of <foreign>-rāṭ</foreign> has no
+                                virāma sign in witness N, but the character is written
+                                slightly smaller, which may echo a usage from Brāhmī where
+                                small size indicates virāma.</note>
+</standOff>
+<standOff corresp="#SS.2.1.10" type="Notes">
+<note xml:lang="en" target="#SS.2.1.10-n1">The 1938 vulgate,
+                                p. 259, gives two versions of this verse, noting that the
+                                second - which is collated here - is the reading accepted
+                                by Gayadāsa. The first reads <foreign>doṣadhātvagnisamatāṃ
+                                    saṃprāptiṃ viṣayeṣu ca | kriyāṇām ānulomyaṃ ca karoty
+                                    akupito 'nilaḥ ||</foreign>
+                            </note>
+</standOff>
+<standOff corresp="#SS.2.1.12" type="notes">
+<note xml:lang="en" target="#SS.2.1.12-n1">The words
+                                    <foreign>prāṇaḥ</foreign> and
+                                    <foreign>udānaḥ</foreign> have undergone double
+                                sandhi. See Oberlies 2003: para 1.8.4</note>
+</standOff>
+<standOff corresp="#SS.2.1.19" type="Notes">
+<note xml:lang="en" target="#SS.2.1.19-n1">A folio of witness
+                                N has been photographed out of order at this point.</note>
+</standOff>
+<standOff corresp="#SS.2.1.31" type="Notes">
+<note xml:lang="en" target="#SS.2.1.31-n1">Gayadāsa noted the
+                                same reading for this half-śloka as the Nepalese
+                                version.</note>
+</standOff>
+<standOff corresp="#SS.2.1.32ab" type="Notes">
+<note xml:lang="en" target="#SS.2.1.32-n1">Gayadāsa noted the
+                                same reading for this half-śloka as the Nepalese
+                                version.</note>
+<note xml:lang="en">Verses 32cd and 33ab of the vulgate appear later in this
+                                chapter, after SS.2.1.62 of the Nepalese version.</note>
+</standOff>
+<standOff corresp="#SS.2.1.40" type="Emendation">
+<note xml:lang="en" target="#SS.2.1.40-n1">We emend to the
+                                ablative <foreign>prapīḍanāt</foreign>, similar to the
+                                vulgate, on the analogy of <foreign>paryāsād</foreign> and
+                                    <foreign>bhojanāt</foreign>. The acc. pl. of H is
+                                strained as an object of
+                                <foreign>prakupyati</foreign>.</note>
+</standOff>
+<standOff corresp="#SS.2.1.46" type="Emendation">
+<note xml:lang="en" target="#SS.2.1.46-n1">We emend to the
+                                vulgate reading <foreign>sarvair</foreign> against H and
+                                N, for the sake of metre and sense.</note>
+</standOff>
+<standOff corresp="#SS.2.1.48" type="Note">
+<note xml:lang="en" target="#SS.2.1.48-n1">The commentators
+                                Gayadāsa and Ḍalhaṇa both read <foreign>saddehaṃ</foreign>
+                                for <foreign>tad dehaṃ</foreign>, interpreting it as
+                                    <foreign>sakalaṃ dehaṃ</foreign> (Ācārya 1938: 264).
+                                There is a difficulty in witness N's reading, which lacks
+                                a <foreign>-d</foreign>. Both N and H read a nominative
+                                    <foreign>kruddhas</foreign> which does not parse
+                                sensibly.</note>
+</standOff>
+<standOff corresp="#SS.2.1.63" type="Emendation">
+<note xml:lang="en" target="#SS.2.1.63-n1">We read
+                                    <foreign>kṛcchrasādhyatamam</foreign> with the
+                                vulgate, against the Nepalese witnesses, for sense.</note>
+</standOff>
+<standOff corresp="#SS.2.1.84" type="Emendation">
+<note xml:lang="en" target="#SS.2.1.84-n1">We emend <foreign
+                                    xml:lang="sa">-hanuḥ</foreign> to the accusative
+                                plural for grammar.</note>
+</standOff>
+<standOff corresp="#SS.2.1.90" type="Notes">
+<note xml:lang="en" target="#SS.2.1.90-n1">The first line of
+                                this passage, <foreign xml:lang="sa"
+                                    >nābher...acalaḥ</foreign>, occurs only in witness N.
+                                However, it was mentioned by Gayadāsa and Ḍalhaṇa (Ācārya
+                                1938: 270) as ``the opinion of some'' in their
+                                commentaries on 2.1.90.</note>
+</standOff>
+<standOff corresp="#SS.2.4.3" type="Notes">
+<note xml:lang="en" target="#SS.2.4.3-n1">Ḍalhaṇa noted that
+                                Gayadāsa accepted the next passage, 2.4.4, which is in the
+                                vulgate but not in the Nepalese version (Ācārya 1938: 280,
+                                note 3).</note>
+</standOff>
+<standOff corresp="#SS.2.5.34" type="Notes">
+<note xml:lang="en" target="#SS.2.5.34-n1"><foreign
+                                    xml:lang="la">Sic</foreign> irregular sandhi of
+                                    <foreign xml:lang="sa">narāt</foreign>.</note>
+</standOff>
 </TEI>

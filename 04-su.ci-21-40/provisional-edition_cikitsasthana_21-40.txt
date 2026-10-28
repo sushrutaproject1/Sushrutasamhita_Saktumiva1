@@ -2191,16 +2191,10 @@
                     <l xml:id="SS.4.26.27">
                         <label xml:lang="en">cf. 1938 ed. 4.26.27</label>
                         <caesura/>
-                         mahiṣarṣabhavastānām pivec chukrāṇi vānaraḥ<anchor n="SS.4.26.27-n1"/> ||
+                         mahiṣarṣabhavastānām pivec chukrāṇi vānaraḥ<anchor xml:id="SS.4.26.27-n1"/> ||
                         <caesura/>
                          aśvatthaphalamūlatvaṃ chuṅgasiddham payo 'pi vā |</l>
 
-                    <ab corresp="#SS.4.26.27" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.4.26.27-n1">At this point, three folios
-                                of witness K are missing, covering 4.26.27-4.29.12.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.4.26.28">
                         <label xml:lang="en">cf. 1938 ed. 4.26.28</label>
@@ -4411,16 +4405,9 @@
                     <l xml:id="SS.4.36.12">
                         <label xml:lang="en">cf. 1938 ed. 4.36.12</label>
                         <caesura/>
-                         atiprapīḍito<anchor n="SS.4.36.12-n1"/> bastiḥ prayātyāmāśayaṃ tataḥ ||
+                         atiprapīḍito<anchor xml:id="SS.4.36.12-n1"/> bastiḥ prayātyāmāśayaṃ tataḥ ||
                         <caesura/>
                          vāterito nāsikābhyāṃ mukhato vā pravarttate || </l>
-                    <ab corresp="#SS.4.36.12" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.4.36.12-n1">At this point, a folio in H
-                                was not photographed. It would be ff. 305v-306r, covering
-                                4.36.12-29ab.</item>
-                        </list>
-                    </ab>
 
                     <l xml:id="SS.4.36.12ef">
                         <label xml:lang="en">cf. 1938 ed. 4.36.12ef</label>
@@ -6942,4 +6929,13 @@
             </div>
         </body>
     </text>
+<standOff corresp="#SS.4.26.27" type="Notes">
+<note xml:lang="en" target="#SS.4.26.27-n1">At this point, three folios
+                                of witness K are missing, covering 4.26.27-4.29.12.</note>
+</standOff>
+<standOff corresp="#SS.4.36.12" type="Notes">
+<note xml:lang="en" target="#SS.4.36.12-n1">At this point, a folio in H
+                                was not photographed. It would be ff. 305v-306r, covering
+                                4.36.12-29ab.</note>
+</standOff>
 </TEI>
