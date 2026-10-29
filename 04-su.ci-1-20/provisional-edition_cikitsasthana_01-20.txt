@@ -2808,7 +2808,7 @@
                             vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir accham
                             pāyayet | tathā nātimātram vāyuḥ prasarati | tato
                             bhadradārvādīni vātaghnāny anyāni cāṅgāny āhṛtya
-                            yavakolakulatthāṃś ca sānūpodakamāṃsāny ekataḥ kvātham<anchor xml:id="SS.4.5.18-n1"/> ādāya
+                            yavakolakulatthāṃś ca sānūpodakamāṃsāny ekataḥ  prakvāthya tam ādāya<anchor xml:id="SS.4.5.18-n1"/> 
                             kaṣāyam amlakṣīraiḥ sahonmiśrya sarppistailavasāmajjābhiḥ saha
                             pacet madhurakapratīvāpaṃ | tad etat traivṛtam apatānakinām
                             pariṣekābhyaṅgapānabhojanānuvāsananasyeṣu vidadhyād yathoktaiś
