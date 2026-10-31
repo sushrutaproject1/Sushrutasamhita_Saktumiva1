@@ -44,10 +44,11 @@
 
                         <scriptDesc>
 
-                            <!--                 <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
+                            
+                                             <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
                                     >śa</foreign> and <foreign xml:lang="sa">sa</foreign>
                                 not distinguished.</scriptNote>
--->
+
 
                             <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba">ba</foreign>
                                 and <foreign xml:lang="va">va</foreign> not
@@ -1625,15 +1626,18 @@ C) Special notes :
                                 /><lb n="6"/>jānukurpparavāhuprabhṛtayo dve dve viṃśatir aṅgulyaḥ
                             srotānsi vakṣyante ||
                             <caesura/>
-                             ity etat pratyaṅgavibhāgam uktaṃ tvaco bhihitāḥ kalā dhātavo maladharāś
-                            ca || </l>
+                             ity etat pratyaṅgavibhāgam uktaṃ </l>
                     </lg>
 
+ <lg xml:id="SS.3.5.7">
+                        <l> tvaco bhihitāḥ kalā dhātavo maladharāś
+                            ca ||</l>
+                    </lg>
 
                     <lg xml:id="SS.3.5.8">
                         <l> āsayās tu vātapittaśle<g ref="#newa-gap-filler"/><pb
-                                n="dscn3151fol173_bottom.jpg" facs="177"/>ṣmāmapakvāgnisūtrāṇāṃ
-                            sapta | strīṇāṃ garbhāsayoṣṭama iti | </l>
+                                n="dscn3151fol173_bottom.jpg" facs="177"/>ṣmāmapakvāgnimūtrāṇāṃ
+                            sapta | strīṇāṃ garbhāsayo ṣṭama iti | </l>
                     </lg>
 
 
@@ -1644,7 +1648,7 @@ C) Special notes :
 
                     <lg xml:id="SS.3.5.10">
                         <l> śravaṇanayanavadanaghrāṇagudameḍhrāṇi nava srotānsi<lb n="2"/> narāṇām
-                            vahir mmukhāni | tāny eva strīṇām aparāṇi ca trīṇi | <cb/> dve stanayor
+                            vahirmmukhāni | tāny eva strīṇām aparāṇi ca trīṇi | <cb/> dve stanayor
                             aparam adhastād raktavāhi ca | </l>
                     </lg>
 
@@ -1652,9 +1656,9 @@ C) Special notes :
                     <lg xml:id="SS.3.5.11">
                         <l> ṣoḍaśa kaṇḍarās tāsāñ catasraḥ pādayos tāvanta eva hasta<g
                                 ref="#newa-gap-filler"/><lb n="3"/>grīvāpṛṣṭheṣu | tatra
-                            hastapādagatānāṅ kaṇḍarāṇāṃ nava nava pra<cb/>rohā
-                            grīvāhṛdayanivandhanīnām meḍhraśoṇipṛṣṭhanivandhanīnāmadhogatānām
-                                nita<lb n="4"/> mvam ūruvandhotkapiṇ<unclear/>dīnāñ ca </l>
+                            hastapādagatānāṅ kaṇḍarāṇāṃ <sic>nava nava</sic> pra<cb/>rohā
+                            grīvāhṛdayanivandhanīnām adhomukhānāṃ meḍhraśroṇīpṛṣṭhanivandhanīnām adhogatānām
+                                nita<lb n="4"/>mvam ūruva <unclear>ndho</unclear>tkapiṇḍyādīnāñ ca </l>
                     </lg>
 
 

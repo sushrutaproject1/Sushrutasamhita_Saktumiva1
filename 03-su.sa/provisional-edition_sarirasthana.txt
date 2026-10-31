@@ -1,3 +1,4 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
@@ -2183,8 +2184,7 @@
                             karṇṇanetrabhrūśaṅkhāṃsagaṇḍakakṣastanavaṃkṣaṇavṛṣaṇapārśvasphikjānukūrpparavāhuprabhṛtayo 
                             dve dve | viṃśatir aṅgulyaḥ srotānsi vakṣyante ||<anchor xml:id="SS.3.5.4-n1"/>
                             <caesura/>
-                             ity etat pratyaṅgavibhāgam uktaṃ  |<anchor xml:id="SS.3.5.4-n2"/> tvaco 'bhihitāḥ kalā dhātavo maladharāś
-                            ca || </l>
+                             ity etat pratyaṅgavibhāgam uktaṃ  |<anchor xml:id="SS.3.5.4-n2"/> </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.4]</trailer>
                     </lg>
 
@@ -2197,32 +2197,32 @@
                     </lg>
 
                     <lg xml:id="SS.3.5.7">
-                        <l/>
+                        <l>tvaco 'bhihitāḥ kalā dhātavo maladharāś
+                            ca || </l>
+                            <trailer xml:lang="en">[cf. 1938 ed. 3.5.7]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.5.8">
-                        <l> āśayās tu vātapittaśleṣmāmapakvāgnisūtrāṇāṃ sapta | strīṇāṃ garbhāśayo
+                        <l> āśayās tu vātapittaśleṣmāmapakvāgnimūtrāṇāṃ sapta | strīṇāṃ garbhāśayo
                             'ṣṭama iti | </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.8]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.5.9">
-                        <l> sārddhatrivyāyāmāny antrāṇi puṃṣāṃ strīṇām arddhavyāyāmahīnāni | </l>
+                        <l> sārddhatrivyāyāmāny antrāṇi puṃṣāṃ strīṇām arddhavyāyāmahīnāni |<anchor xml:id="SS.3.5.9-n1"/> </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.9]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.5.10">
-                        <l> śravaṇanayanavadanaghrāṇagudameḍhrāṇi nava srotānsi narāṇām vahir
-                            mmukhāni | tāny eva strīṇām aparāṇi ca trīṇi | dve stanayor aparam
+                        <l> śravaṇanayanavadanaghrāṇagudameḍhrāṇi nava srotānsi narāṇām bahirmmukhāni | tāny eva strīṇām aparāṇi ca trīṇi | dve stanayor aparam
                             adhastād raktavāhi ca | </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.10]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.5.11">
                         <l> ṣoḍaśa kaṇḍarās tāsāñ catasraḥ pādayos tāvanta eva hastagrīvāpṛṣṭheṣu |
-                            tatra hastapādagatānāṅ kaṇḍarāṇāṃ nava nava prarohā
-                            grīvāhṛdayanivandhanīnām meḍhraśoṇipṛṣṭhanivandhanīnāmadhogatānām nita
-                            mvam ūruvandhotkapiṇdīnāñ ca </l>
+                            tatra hastapādagatānāṅ kaṇḍarāṇāṃ nakhā agraprarohā<anchor xml:id="SS.3.5.11-n1"/>
+                            grīvāhṛdayanibandhanīnām  adhomukhānāṃ meḍhraṃ<anchor xml:id="SS.3.5.11-n2"/> śroṇīpṛṣṭhanibandhanīnām adhogatānām nitambam ūruvakṣo'ṃsapiṇḍyādīnāñ<anchor xml:id="SS.3.5.11-n3"/> ca ||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.5.11]</trailer>
                     </lg>
 
@@ -4276,12 +4276,12 @@
                 <foreign>anitya-apara-aliṅga</foreign> rather than
                 <foreign>aliṅga-nitya-anapara</foreign>.</note>
     </standOff>
-    <standOff corresp="#SS.3.1.9" type="Notes">
+    <standOff corresp="#SS.3.1.9" type="Note">
         <note target="#SS.3.1.9-n2" xml:lang="en"> Note the sandhi hiatus, <foreign>-dharmiṇī -
                 amadhya-</foreign>
         </note>
     </standOff>
-    <standOff corresp="#SS.3.1.9" type="Notes">
+    <standOff corresp="#SS.3.1.9" type="Note">
         <note target="#SS.3.1.9-n3" xml:lang="en"> The daṇḍa here breaks the sentence but
             disambiguates the sandhi.</note>
     </standOff>
@@ -4290,12 +4290,12 @@
             210.7cd-8ab: <foreign> anādyantāv ubhāv etāv aliṅgau cāpy ubhāv api // 7 ubhau nityau
                 sūkṣmatarau mahadbhyaś ca mahattarau /</foreign>. </note>
     </standOff>
-    <standOff corresp="#SS.3.1.11" type="Notes">
+    <standOff corresp="#SS.3.1.11" type="Note">
         <note target="#SS.3.1.11-n1" xml:lang="en">We read <foreign xml:lang="sa">vaidike</foreign>
             with witness N, against H and the vulgate, because <foreign xml:lang="la">lectio
                 dificilior potior</foreign>; see further discussion in the translation.</note>
     </standOff>
-    <standOff corresp="#SS.3.1.12" type="Notes">
+    <standOff corresp="#SS.3.1.12" type="Note">
         <note target="#SS.3.1.12-n1" xml:lang="en">According to Ḍalhaṇa (1938: 341), Gayadāsa also
             read <foreign>tato jātāni</foreign>, with the Nepalese version and against the
             vulgate.</note>
@@ -4315,7 +4315,7 @@
                 <title>Suśrutasaṃhitā</title> 1.1.22.</note>
     </standOff>
 
-    <standOff corresp="#SS.3.1.16" type="Notes">
+    <standOff corresp="#SS.3.1.16" type="Note">
         <note target="#SS.3.1.16-n2" xml:lang="en">The <foreign xml:lang="sa">ca</foreign> after
                 <foreign xml:lang="sa">tiryagyonimānuṣadeveṣu</foreign> unnecessarily conjoins the
             members of the dvandva. While rare, this usage has been observed: Wackernagel
@@ -4330,26 +4330,26 @@
             to <foreign xml:lang="sa">āntar-</foreign>, following the vulgate reading for sense. And
             we separate <foreign xml:lang="sa">śabdaḥ</foreign> for the same reason.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.1" type="Notes">
+    <standOff corresp="#SS.3.2.1" type="Note">
         <note target="#SS.3.2.1-n1" xml:lang="en">Witness N omits <foreign xml:lang="sa"
                 >śārīraṃ</foreign>, which offers a clearer syntax. Note that the 1931 and 1938
             editions of the vulgate text offer two different solutions to the awkward phrase.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.3" type="Notes">
+    <standOff corresp="#SS.3.2.3" type="Note">
         <note target="#SS.3.2.3-n1" xml:lang="en">The 1931 and 1938 editions of the SS by Ācārya
             have different readings at this point. <foreign xml:lang="sa">śonita</foreign> is
             included in the 1931 edition but omitted in the 1938 edition. There also seems to be
             some textual confusion between <foreign xml:lang="sa">granthi</foreign> and <foreign
                 xml:lang="sa">gandhi</foreign> in the next passage.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.10ab" type="Notes">
+    <standOff corresp="#SS.3.2.10ab" type="Note">
         <note target="#SS.3.2.10ab-n1" xml:lang="en"> The vulgate and Nepalese texts diverge again
             this point. The vulgate adds a half-śloka <foreign xml:lang="sa">snigdhaṃ vāntaṃ
                 ...</foreign> that is not present in the Nepalese version. The Nepalese version then
             has about eleven passages that are absent in the vulgate. The vulgate's verses 3.2.11cd
             then appears after 3.2.32. </note>
     </standOff>
-    <standOff corresp="#SS.3.2.10.add1" type="Notes">
+    <standOff corresp="#SS.3.2.10.add1" type="Note">
         <note target="#SS.3.2.10.add1-n1" xml:lang="en">Although not printed in the vulgate
             editions, the editor Y. T. Ācārya noted that words to this effect were present in some
             sources (1931 ed., p. 290, note 2; 1938 ed., p. 345, note 3).</note>
@@ -4364,16 +4364,16 @@
                 >etām</foreign> to the vulgate's <foreign xml:lang="sa">etān</foreign> for
             sense.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.28" type="Notes">
+    <standOff corresp="#SS.3.2.28" type="Note">
         <note target="#SS.3.2.28-n1" xml:lang="en">Witness N inserts a misplaced folio at this
             point, image A 1267_11_67.jpg, covering SS.3.2.22bis, 23, 33, 34, 35, 30.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.31b" type="Notes">
+    <standOff corresp="#SS.3.2.31b" type="Note">
         <note target="#SS.3.2.31b.add-n1" xml:lang="en">Witnesses H and N make a saut du même au
             même from <foreign xml:lang="sa">ataḥ paraṃ</foreign> at the start of 30 to the end of
             31.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.32" type="Notes">
+    <standOff corresp="#SS.3.2.32" type="Note">
         <note target="#SS.3.2.32-n1" xml:lang="en">Witness N is faint and written close to the
             abraded top of the folio so that superscript vowels are uncertain. Witness H has a
             scribal correction of the vowel <foreign xml:lang="sa">i</foreign>. The reading adopted
@@ -4381,7 +4381,7 @@
             almost certainly unoriginal. Without further evidence it is not possible to recover the
             oldest reading.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.35" type="Notes">
+    <standOff corresp="#SS.3.2.35" type="Note">
         <note target="#SS.3.2.35-n1" xml:lang="en">Note the slightly unusual form <foreign
                 xml:lang="sa">apān-dhātu-prāyam</foreign> with the inflected genitive pl. of the
             first member of the compound (Whitney 1250e).</note>
@@ -4397,7 +4397,7 @@
         <note target="#SS.3.2.35.1-n1" xml:lang="en">Witness H appears to read <foreign
                 xml:lang="sa">jāyate</foreign> but we emend to the dual.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.35.4" type="Notes">
+    <standOff corresp="#SS.3.2.35.4" type="Note">
         <note target="#SS.3.2.35.4-n1" xml:lang="en">Witness H appears to read <foreign
                 xml:lang="sa">jāyate</foreign> but we emend to the dual.</note>
     </standOff>
@@ -4422,7 +4422,7 @@
                 xml:lang="sa">aṇunā viśeṣeṇa-</foreign> has the retroflex in the witnesses K and N,
             so the emendation is certain.</note>
     </standOff>
-    <standOff corresp="#SS.3.3.6.1" type="Notes">
+    <standOff corresp="#SS.3.3.6.1" type="Note">
         <note target="#SS.3.5.6.1-n1" xml:lang="en"><foreign xml:lang="sa">puṃso</foreign> (m.)
                 <foreign xml:lang="sa">bhavati</foreign> needs to be read as a separate sentence
             because of the gender difference with <foreign xml:lang="sa">anāyuṣyam</foreign>
@@ -4473,7 +4473,7 @@
                 xml:lang="sa">-i</foreign> stem to an <foreign xml:lang="sa">-ī</foreign> stem
             (Oberlies 2003: 83-84).</note>
     </standOff>
-    <standOff corresp="#SS.3.4.3" type="Notes">
+    <standOff corresp="#SS.3.4.3" type="Note">
         <note target="#SS.3.4.3-n1" xml:lang="en">Gayadāsa's commentary discusses the word <foreign
                 xml:lang="sa">manas</foreign>, which is not present in the vulgate. See MS Cambridge
             Add.2491, f.34r.</note>
@@ -4601,11 +4601,19 @@
      <standOff corresp="#SS.3.5.4" type="Note">
         <note xml:lang="en" target="#SS.3.5.4-n2">One would expect masculine <foreign xml:lang="sa">vibhāgaḥ</foreign> rather than the neuter.</note>
     </standOff>
+    <standOff corresp="#SS.3.5.9" type="Emendation">
+        <note target="#SS.3.5.9-n1" xml:lang="en">We emend witness H's <foreign xml:lang="sa">vyāyāma</foreign> to the vulgate <foreign xml:lang="sa-Latn">vyāma</foreign> which provides an intelligible reading.</note>
+    </standOff>
+    <standOff corresp="#SS.3.5.11" type="Emendation">
+        <note target="#SS.3.5.11-n1" xml:lang="en">We emend witness H's <foreign xml:lang="sa">nava nava</foreign> to the vulgate's <foreign xml:lang="sa">nakhā agra-</foreign> for sense.</note>
+        <note target="#SS.3.5.11-n2" xml:lang="en">We emend witness H's <foreign xml:lang="sa">meḍhra</foreign> to the vulgate's <foreign xml:lang="sa">meḍhraṃ</foreign> for sense.</note>
+        <note target="#SS.3.5.11-n3" xml:lang="en">We emend  towards the vulgate's readings for <foreign xml:lang="sa">vakṣa</foreign> and <foreign xml:lang="sa">aṃsa</foreign> for sense.</note>
+    </standOff>
     <standOff corresp="#SS.3.5.18" type="Testimonia">
         <note target="#SS.3.5.18-n1" xml:lang="en">See Hoernle's edition and discussion of this
             passage (Hoernle 1907: 218--219).</note>
     </standOff>
-    <standOff corresp="#SS.3.5.49" type="Notes">
+    <standOff corresp="#SS.3.5.49" type="Note">
         <note target="#SS.3.5.49-n1" xml:lang="en">On <foreign xml:lang="sa">ghṛṣya</foreign> for
                 <foreign xml:lang="sa">ghṛṣṭvā</foreign>, see Oberlies (2003): 9.7.2 (p.
             283).</note>

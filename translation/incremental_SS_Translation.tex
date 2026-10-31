@@ -73,7 +73,7 @@
 %    chapters/translation 3-08, % Jan Gerris draft
 %    chapters/translation 3-09, % Dominik draft
 %    chapters/translation 3-10, % Jan Gerris draft
-%     chapters/bibliography and indexes
+     chapters/bibliography and indexes
 } \fi       
 %
 \ifcikitsa \includeonly{%
@@ -83,6 +83,12 @@
  chapters/bibliography and indexes
 }
 \fi
+%
+%Shorthand for marking where the draft begins
+\newcommand{\gottohere}{\begin{tt}
+        \raggedright
+        \bigskip
+        \marginpar{Draft tr.\ from here}}
 %
 % from 
 %https://tex.stackexchange.com/questions/361031/biblatex-how-to-automatically-sort-citation-by-year-sortcites-ynt-when-refere/361042#361042
