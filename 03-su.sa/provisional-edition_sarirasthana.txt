@@ -440,7 +440,7 @@
 
                     <lg xml:id="SS.3.2.10ab">
                         <l> viṭprabhe pāyayet sarppiś citrakośīrahiṅgubhiḥ |<anchor
-                                xml:id="SS.3.2.10-n-1"/></l>
+                                xml:id="SS.3.2.10ab-n1"/></l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.2.10ab]</trailer>
                     </lg>
 
@@ -3629,7 +3629,7 @@
                         <l> ata ūrddhvaṃ srotasāṃ mūlaṃ viddhalakṣaṇaṃ vyākhyāsyāmaḥ | tāni tu
                             prāṇānnodakarasaraktamāṃsamedomūtrapurīṣaśukrārttavavahāni yeṣv
                             adhīkāraḥ | eṣāṃ viśeṣā bahavaḥ | teṣāṃ prāṇavahe dve, tayor<anchor
-                                xml:id="SS.9.9.12-n1"/> mūlaṃ hṛdayaṃ rasavahinyaś ca dhamanyas |
+                                xml:id="SS.3.9.12-n1"/> mūlaṃ hṛdayaṃ rasavahinyaś ca dhamanyas |
                             tatra viddhasya krośana<pc> </pc>vinamana<pc> </pc>bhramaṇāni saṃjñānāśo
                             maraṇañ ca | udakavahe dve tayor mmūlam dvayaṃ āmāśayo 'nnavāhinyaś ca
                             dhamanyaḥ | tatra viddhasya prāṇavahaviddhavat maraṇaṃ talliṅgaś ca |
@@ -4369,7 +4369,7 @@
             point, image A 1267_11_67.jpg, covering SS.3.2.22bis, 23, 33, 34, 35, 30.</note>
     </standOff>
     <standOff corresp="#SS.3.2.31b" type="Note">
-        <note target="#SS.3.2.31b.add-n1" xml:lang="en">Witnesses H and N make a saut du même au
+        <note target="#SS.3.2.31b-n1" xml:lang="en">Witnesses H and N make a saut du même au
             même from <foreign xml:lang="sa">ataḥ paraṃ</foreign> at the start of 30 to the end of
             31.</note>
     </standOff>
@@ -4423,7 +4423,7 @@
             so the emendation is certain.</note>
     </standOff>
     <standOff corresp="#SS.3.3.6.1" type="Note">
-        <note target="#SS.3.5.6.1-n1" xml:lang="en"><foreign xml:lang="sa">puṃso</foreign> (m.)
+        <note target="#SS.3.3.6.1-n1" xml:lang="en"><foreign xml:lang="sa">puṃso</foreign> (m.)
                 <foreign xml:lang="sa">bhavati</foreign> needs to be read as a separate sentence
             because of the gender difference with <foreign xml:lang="sa">anāyuṣyam</foreign>
             (n.).</note>
@@ -4602,7 +4602,7 @@
         <note xml:lang="en" target="#SS.3.5.4-n2">One would expect masculine <foreign xml:lang="sa">vibhāgaḥ</foreign> rather than the neuter.</note>
     </standOff>
     <standOff corresp="#SS.3.5.9" type="Emendation">
-        <note target="#SS.3.5.9-n1" xml:lang="en">We emend witness H's <foreign xml:lang="sa">vyāyāma</foreign> to the vulgate <foreign xml:lang="sa-Latn">vyāma</foreign> which provides an intelligible reading.</note>
+        <note target="#SS.3.5.9-n1" xml:lang="en">Witness H's <foreign xml:lang="sa">vyāyāma</foreign> is accepted, since dictionaries commonly include the sense ``fathom.''  The vulgate's <foreign xml:lang="sa-Latn">vyāma</foreign> is historically and etymologically the more correct term.</note>
     </standOff>
     <standOff corresp="#SS.3.5.11" type="Emendation">
         <note target="#SS.3.5.11-n1" xml:lang="en">We emend witness H's <foreign xml:lang="sa">nava nava</foreign> to the vulgate's <foreign xml:lang="sa">nakhā agra-</foreign> for sense.</note>
@@ -4626,12 +4626,12 @@
                 xml:lang="sa">vahatī</foreign>.</note>
     </standOff>
     <standOff corresp="#SS.3.9.12" type="Emendations">
-        <note target="#SS.3.9.12.1-n1" xml:lang="en">I insert <foreign xml:lang="sa"> prāṇavahe dve,
+        <note target="#SS.3.9.12-n1" xml:lang="en">I insert <foreign xml:lang="sa"> prāṇavahe dve,
                 tayor</foreign> from the vulgate here, to make sense of the sentence and the
             corrollary in the next sentence.</note>
     </standOff>
     <standOff corresp="#SS.3.9.12" type="Emendations">
-        <note target="#SS.3.9.12-n1" xml:lang="en">We emend witness H's <foreign>sevanīcheddā
+        <note target="#SS.3.9.12-n2" xml:lang="en">We emend witness H's <foreign>sevanīcheddā
                 prādurbhāvo</foreign> to the vulgate's reading. Perhaps there was an eye-skip from
                 <foreign>[chedā]-ā</foreign> to <foreign>[ruj]-ā</foreign>.</note>
     </standOff>
