@@ -67,6 +67,48 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+<charDecl>
+    <char xml:id="newa-comma">
+        <unicodeProp name="Name" value="NEWA COMMA"/>
+        <mapping type="Unicode">&#x1144D;</mapping>
+    </char>
+    <char xml:id="newa-double-comma">
+        <unicodeProp name="Name" value="NEWA DOUBLE COMMA"/>
+        <mapping type="Unicode">&#x1145A;</mapping>
+    </char>
+    <char xml:id="newa-gap-filler">
+        <unicodeProp name="Name" value="NEWA GAP FILLER"/>
+        <mapping type="Unicode">&#x1144E;</mapping>
+    </char>
+    <char xml:id="newa-placeholder-mark">
+        <unicodeProp name="Name" value="NEWA PLACEHOLDER MARK"/>
+        <mapping type="Unicode">&#x1145B;</mapping>
+    </char>
+    <char xml:id="newa-siddhi">
+        <unicodeProp name="Name" value="NEWA SIDDHI"/>
+        <mapping type="Unicode">&#x1144A;</mapping>
+    </char>
+    <char xml:id="newa-sign-final-anusvara">
+        <unicodeProp name="Name" value="NEWA SIGN FINAL ANUSVARA"/>
+        <mapping type="Unicode">&#x11448;</mapping>
+    </char>
+    <glyph xml:id="newa-old-gap-filler">
+        <desc>Older form of the Newa gap filler, as written in this manuscript.</desc>
+        <localProp name="Name" value="NEWA GAP FILLER, OLDER FORM"/>
+        <mapping type="standard">&#x1144E;</mapping>
+    </glyph>
+    <glyph xml:id="broken-danda">
+    <desc>Broken form of the daṇḍa, written as a daṇḍa with a gap in it.</desc>
+    <localProp name="Name" value="BROKEN DANDA"/>
+    <mapping type="standard">&#x1144B;</mapping>
+</glyph>
+<glyph xml:id="upadhmaniya"><desc>The Sanskrit upadhmaniya character in Newa script</desc>
+<localProp name="Upadhmaniya" value="UPADHMANIYA"></localProp>
+<mapping type="standard">&#x1CF6;</mapping></glyph>
+</charDecl>
+
+        </encodingDesc>
         <revisionDesc>
             <change when="2020-10-21" who="Dominik Wujastyk"> Started the file. </change>
             <change when="2021-04-24" who="Harshal Bhatt">Transcribed 3.1</change>
