@@ -3007,7 +3007,7 @@
                     <lg xml:id="SS.6.64.39.add5">
                         <l>
                             <caesura/>
-                             tataś candrakarālokaṃ pradoṣaṃ satsuhṛjjanaḥ | </l>
+                             tataś candrakarālokān pradoṣaṃ satsuhṛjjanaḥ | </l>
                     </lg>
                     <lg xml:id="SS.6.64.39.add6">
                         <l>

@@ -2734,14 +2734,12 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     </lg>
 
 
-
                     <lg xml:id="SS.6.64.38.add">
                         <l> vyāyāmaṃ vyadhika<cb/>ñ cāsya sarvva eva praśasyate || </l>
                     </lg>
 
                     <lg xml:id="SS.6.64.39cd">
-                        <l> śirovirekair vvamananaiḥ <gap reason="omitted" extent="1" unit="pāda"/>
-                            kaṣāyaiḥ kavaḍagrahaiḥ | </l>
+                        <l> śirovirekair vvamanaiḥ kaṣāyaiḥ kavaḍagrahaiḥ | </l>
                     </lg>
 
                     <lg xml:id="SS.6.64.39ab">
